@@ -24,6 +24,12 @@ Use this script to generate nginx configs.
 
     bash generate_nginx_configs.sh > /etc/nginx/sites-available/qnn_agents
 
+## Deploy
+
+Automatically clone (update if exist) template to each site. No files changed.
+
+    bash deploy.sh
+
 ## Developers
 
 * caiguanhao
