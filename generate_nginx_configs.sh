@@ -4,7 +4,7 @@ OLD_IFS=$IFS
 IFS=$'\n'
 for WEBSITE in $(cat "$(pwd)/WEBSITES"); do
 
-	cat >/dev/stdout <<DATA
+	cat <<DATA
 
 server {
 	server_name ${WEBSITE};
