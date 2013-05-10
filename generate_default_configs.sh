@@ -1,6 +1,10 @@
 #!/bin/bash
 
 WEBSITES=(
+"yzqnn.com.cn"
+"hyqnn.com.cn"
+"zqqnn.com.cn"
+"suqnn.com.cn"
 "qtqnn.com.cn"
 "czqnn.cn"
 "bjqnn.com.cn"
