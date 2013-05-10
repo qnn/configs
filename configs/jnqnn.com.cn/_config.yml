@@ -58,7 +58,7 @@ photos: [
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "济南市天桥区明湖西路济安街8号（火车站东行1000米北坦大街站即到）",
-    perso: "褚先生/李小姐,
+    perso: "褚先生/李小姐",
     telep: "0531-85825988",
   },
 ]

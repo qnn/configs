@@ -38,5 +38,9 @@ do
 	else
 		$JEKYLL build --source "$SITES/$TODO" --destination "$SITES/$TODO/_site" --config "$CONFIGS/$TODO/_config.yml"
 	fi
+	
+	COUNT=$[COUNT+1]
+	
+	echo
 
 done
