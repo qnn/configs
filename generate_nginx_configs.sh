@@ -12,7 +12,7 @@ server {
 }
 server {
 	server_name www.${WEBSITE};
-	root /srv/qnn_agents/${WEBSITE}/_site;
+	root /srv/qnn-agent-sites/${WEBSITE}/_site;
 	index index.html;
 }
 
