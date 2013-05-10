@@ -30,6 +30,14 @@ Automatically clone (update if exist) template to each site. No files changed.
 
     bash deploy.sh
 
+## Build
+
+Build Jekyll sites with config file from ``configs`` directory.  
+Must define which sites to build in ``TODO`` file.  
+To build all, simply execute this command first: ``cp WEBSITES TODO`` .
+
+    bash build.sh
+
 ## Developers
 
 * caiguanhao
