@@ -1,0 +1,204 @@
+### 请小心更改配置文件 ###
+
+# 模板、主题、版式
+# _layout_alpha , _layout_beta , _layout_gamma , _layout_delta
+layouts: _layout_alpha
+
+# 网站 URL ，最后勿加入斜杠
+url: http://www.ncqnn.com.cn
+
+# 网站名称
+name: 北京代理商
+
+# 默认标题
+title: 全能北京代理商
+
+# 默认描述
+description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
+
+# 默认关键词
+keywords: 保险柜,保险箱,家用保险柜,家用保险箱,保险柜十大品牌,全能保险柜
+
+# 版权，请改备案号
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备</a>
+
+# 首页轮播大图（大括号包围的块代表一个项目）
+# _layout_alpha: 998 x 514px
+# _layout_beta: 998 x 350px
+# _layout_gamma: 998 x 350px
+# _layout_delta: 720 x 288px
+slider: [
+  {
+    image: "http://www.qnn.com.cn/images/index-banner03.jpg",
+    link: "/b-4538.html",
+  },
+  {
+    image: "http://www.qnn.com.cn/images/index-banner03.jpg",
+    link: "/b-4538.html",
+  },
+  {
+    image: "http://www.qnn.com.cn/images/index-banner03.jpg",
+    link: "/b-4538.html",
+  },
+  {
+    image: "http://www.qnn.com.cn/images/index-banner03.jpg",
+    link: "/b-4538.html",
+  },
+]
+
+# 侧栏服务，请改QQ号码（每行代码前加入两个空格）
+service: |
+  <p>客户咨询时间：早上8:00到下午17:30</p>
+  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
+  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
+
+# 专卖店风采（大括号包围的块代表一个项目）
+photos: [
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
+    perso: "X先生",
+    telep: "0757-12345678",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
+    perso: "X先生",
+    telep: "0757-12345678",
+  },
+]
+
+# 侧栏联系（每行代码前加入两个空格）
+contact: |
+  全能地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+  
+  总部电话：0757-22308180
+  
+  全国免费服务热线：400-830-4555
+  
+  售后服务热线：0757-22308180
+
+# 联系页（每行代码前加入两个空格）
+contacthtml: |
+  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+  ###联系人：X先生
+  ###联系电话：0757-12345678
+
+# 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
+coord: 113.28,22.76
+
+# 百度地图框内地址
+addr: 地址：XXX
+
+# 右上角电话
+telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
+
+
+### 下面的不用改 ###
+
+# 产品图片网址，以斜杠结尾
+p_img_cdn: http://test.html9.com/image-pro/
+
+# 分类
+product_categories: [
+{
+  name: "家用系列",
+  cats: [
+    ["feng-sheng-shui-qi","风生水起"],
+    ["quan-neng-jin-ku","全能金库"],
+    ["ke-la-zhen-cang","可拉珍藏"],
+    ["gang-tie-xia","钢铁侠"],
+    ["gao-er-fu","高尔夫"],
+    ["xin-huang-guan","新皇冠"],
+    ["tie-jin-gang","铁金钢"],
+    ["gang-jiang-jun","钢将军"],
+    ["tie-guan-jia","铁管家"],
+    ["lan-jing-ling","蓝精灵"],
+    ["ping-guo","苹果系列"],
+    ["zhen-cang","珍藏系列"],
+    ["yi-dong","逸动系列"],
+    ["zhi-wen","指纹系列"],
+    ["cang-bao","藏宝系列"],
+    ["an-gu","安固系列"],
+    ["qian-qiang","嵌墙系列"]
+  ]
+},
+{
+  name: "商用系列",
+  cats: [
+    ["feng-sheng-shui-qi","风生水起"],
+    ["quan-neng-jin-ku","全能金库"],
+    ["gang-tie-xia","钢铁侠"],
+    ["gao-er-fu","高尔夫"],
+    ["xin-huang-guan","新皇冠"],
+    ["tie-jin-gang","铁金钢"],
+    ["gang-jiang-jun","钢将军"],
+    ["tie-guan-jia","铁管家"],
+    ["lan-jing-ling","蓝精灵"],
+    ["zhi-wen","指纹系列"],
+    ["cang-bao","藏宝系列"],
+    ["an-gu","安固系列"],
+    ["di-cang","地藏系列"],
+    ["tie-guan-yin-fang-huo","铁观音防火"]
+  ]
+},
+{
+  name: "办公系列",
+  cats: [
+    ["wei-na-si","维纳斯"],
+    ["shuang-kai-men","双开门"],
+    ["chou-ti-shi","抽屉式"]
+  ]
+},
+{
+  name: "酒店系列",
+  cats: [
+    ["qnnsafe-ke-fang-gui","QNNSAFE客房柜"],
+    ["hotsafe-ke-fang-gui","HOTSAFE客房柜"],
+    ["qian-ting-bao-guan-xiang","前厅保管箱"],
+    ["qian-ting-tou-bi-gui","前厅投币柜"]
+  ]
+},
+{
+  name: "金融系列",
+  cats: [
+    ["jin-ku-men","金库门"],
+    ["yi-dong-jin-ku","移动金库"],
+    ["yin-xing-bao-guan-xiang","银行保管箱"],
+    ["xian-jin-tou-bao-ji","现金投包机"],
+    ["atm-gui-yuan-ji","ATM柜员机"],
+    ["you-zhan-tou-bi-gui","油站投币柜"]
+  ]
+},
+{
+  name: "枪弹系列",
+  cats: [
+    ["qiang-dan-gui","枪弹柜"],
+    ["dan-yao-gui","弹药柜"],
+    ["zhi-neng-qiang-dan-gui","智能枪弹柜"],
+    ["chu-wu","储物系列"],
+    ["zhi-neng-bao-mi-gui","智能保密柜"],
+    ["yue-chi-gui","钥匙柜"],
+    ["ji-cun-gui","寄存柜"],
+  ]
+},{
+  name: "物流系列",
+  cats: [
+    ["cun-qu-gui","存取柜"]
+  ]
+}
+]
+
+# 生成的网站不包含的文件
+exclude: ['README.md']
+
+# markdown
+markdown: rdiscount
+
+# 链接格式
+permalink: :title.html
+
+# 分页项目数，忽略
+paginate: 20
