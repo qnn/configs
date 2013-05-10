@@ -87,22 +87,29 @@ WEBSITES=(
 "sgqnn.com.cn"
 )
 
+CONFIGS="$(pwd)/configs"
+
+if [[ ! -d $CONFIGS ]]; then
+	mkdir "$CONFIGS"
+fi
+
 for SITE in "${WEBSITES[@]}"
 do
-	if [[ ! -d $SITE ]]; then
-		mkdir $SITE
-		echo "$SITE created"
+	if [[ ! -d "$CONFIGS/$SITE" ]]; then
+		mkdir "$CONFIGS/$SITE"
+		echo "$CONFIGS/$SITE created"
 	fi
-	if [[ ! -f "$SITE/_config.yml" ]]; then
-		cp "sample_config.yml" "$SITE/_config.yml"
+	if [[ ! -f "$CONFIGS/$SITE/_config.yml" ]]; then
+		cp "$(pwd)/sample_config.yml" "$CONFIGS/$SITE/_config.yml"
 		
-		sed -i.bak "s/url: http:\/\/www\.qnn\.com\.cn/url: http:\/\/www\.$SITE/g" "$SITE/_config.yml"
-		rm -f "$SITE/_config.yml.bak"
+		sed -i.bak "s/url: http:\/\/www\.qnn\.com\.cn/url: http:\/\/www\.$SITE/g" "$CONFIGS/$SITE/_config.yml"
+		rm -f "$CONFIGS/$SITE/_config.yml.bak"
 		
-		if [[ -f "$SITE/_config.yml" ]]; then
-			echo "$SITE/_config.yml is OK."
+		if [[ -f "$CONFIGS/$SITE/_config.yml" ]]; then
+			echo "$CONFIGS/$SITE/_config.yml is OK."
 		else
-			echo "$SITE/_config.yml is NOT OK."
+			echo "$CONFIGS/$SITE/_config.yml is NOT OK."
+			exit
 		fi
 	fi
 done
