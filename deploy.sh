@@ -10,9 +10,34 @@ if [[ ! -d $SITES ]]; then
 	mkdir $SITES
 fi
 
+SITELIST=(
+	$(find "`pwd`" -type f -maxdepth 1 -name "TODO*")
+	$(find "`pwd`" -type f -maxdepth 1 -name "WEBSITES*")
+)
+
+echo "Found ${#SITELIST[@]} files. Which one to use?"
+
+NO=0;
+for SITE in "${SITELIST[@]}"
+do
+	echo "  $NO) ${SITE##*/}"
+	((NO++))
+done
+
+read NO
+
+if [[ $NO =~ ^[0-9]+$ ]] && [[ $NO -ge 0 ]] && [[ $NO -lt ${#SITELIST[@]} ]]; then
+	FILE=${SITELIST[$NO]}
+else
+	echo "No input file."
+	exit
+fi
+
+echo "Using $FILE."
+
 OLD_IFS=$IFS
 IFS=$'\n'
-WEBSITES=($(cat "$(pwd)/WEBSITES"))
+WEBSITES=($(cat $FILE))
 IFS=$OLD_IFS
 
 QUIET="--quiet"
@@ -46,3 +71,5 @@ do
 done
 
 wait
+
+echo "Done."
