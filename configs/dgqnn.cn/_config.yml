@@ -8,19 +8,19 @@ layouts: _layout_alpha
 url: http://www.dgqnn.cn
 
 # 网站名称
-name: 北京代理商
+name: 全能东莞办事处
 
 # 默认标题
-title: 全能北京代理商
+title: 全能东莞办事处-东莞保险柜
 
 # 默认描述
 description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
 
 # 默认关键词
-keywords: 保险柜,保险箱,家用保险柜,家用保险箱,保险柜十大品牌,全能保险柜
+keywords: 东莞保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备09217978号-3</a>
 
 # 首页轮播大图（大括号包围的块代表一个项目）
 # _layout_alpha: 998 x 514px
@@ -57,40 +57,137 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "广东省东莞市南城区莞太路段23号鸿禧大厦103",
+    perso: "罗小姐",
+    telep: "0769-23036190",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "广东省东莞市东城区东纵大道加油站旁",
+    perso: "邓小姐",
+    telep: "0769-23397993",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市长安镇德政中路146号",
+    perso: "李小姐",
+    telep: "0769-85539263",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市常平镇口岸大道7号（东莞火车站旁）",
+    perso: "梁小姐",
+    telep: "0769-83339639",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市虎门镇虎门大道156号（计生办对面）",
+    perso: "吴小姐",
+    telep: "0769-81511330",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市莞城东兴路170号罗沙大厦",
+    perso: "郑经理",
+    telep: "0769-13549483538",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市虎门镇人民路167号",
+    perso: "郑经理",
+    telep: "0769-13549483538",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市长安358省道388号-394号",
+    perso: "郑经理",
+    telep: "0769-13549483538",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市长安地王广场镇政府对面时尚电器城",
+    perso: "郑经理",
+    telep: "0769-13549483538",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市塘厦大道北115号",
+    perso: "郑经理",
+    telep: "0769-13549483538",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞南城区南城科技大道（家居装饰城对面）",
+    perso: "郑经理",
+    telep: "0769-13549483538",
+  },  
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市常平镇金美村金兴工业区（常朗大道）",
+    perso: "郑经理",
+    telep: "0769-13549483538",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市东城中路美新家居中心二楼",
+    perso: "郑经理",
+    telep: "0769-13549483538",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市虎门人民南路虎门大道146",
+    perso: "郑经理",
+    telep: "0769-13549483538",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市城区东城中路光辉大厦1-6楼",
+    perso: "郑经理",
+    telep: "0769-13549483538",
+  },
+    {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省东莞市虎门镇虎门大道",
+    perso: "郑经理",
+    telep: "0769-13549483538",
   },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  全能地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+  地址：广东省东莞市南城区莞太路段23号鸿禧大厦103
   
-  总部电话：0757-22308180
+  联系人：罗小姐
   
-  全国免费服务热线：400-830-4555
+  联系电话：0769-23036190
   
-  售后服务热线：0757-22308180
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
-  ###联系人：X先生
-  ###联系电话：0757-12345678
+  ###地址：广东省东莞市南城区莞太路段23号鸿禧大厦103
+  ###联系人：罗小姐
+  ###联系电话：0769-23036190
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 地址：XXX
+addr: 地址：广东省东莞市南城区莞太路段23号鸿禧大厦103
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
