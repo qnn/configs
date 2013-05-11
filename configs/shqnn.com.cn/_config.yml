@@ -8,19 +8,19 @@ layouts: _layout_alpha
 url: http://www.shqnn.com.cn
 
 # 网站名称
-name: 北京代理商
+name: 全能上海办事处
 
 # 默认标题
-title: 全能北京代理商
+title: 全能上海办事处-上海保险柜
 
 # 默认描述
 description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
 
 # 默认关键词
-keywords: 保险柜,保险箱,家用保险柜,家用保险箱,保险柜十大品牌,全能保险柜
+keywords: 上海保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备09217978号-26</a>
 
 # 首页轮播大图（大括号包围的块代表一个项目）
 # _layout_alpha: 998 x 514px
@@ -57,40 +57,96 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "上海浦东区浦东新区龙东大道5385号龙东大厦首层",
+    perso: "徐先生",
+    telep: "021-58588280",
+  },
+   {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海浦东区浦东新区妙境路872号（近川环南路路口）",
+    perso: "张小姐",
+    telep: "13918010042",
+  },
+   {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海闸北区闸北沪太路589号（近中北路）",
+    perso: "张先生",
+    telep: "13816776700",
+  },
+   {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海浦东区浦东区沪南路近华夏西路红星美凯龙5层",
+    perso: "郭女士",
+    telep: "15800981123",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "上海普陀区真北路近怒江北路红星美凯龙北馆二楼",
+    perso: "刘女士",
+    telep: "18202107240",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海普陀区真北路近怒江北路红星美凯龙南馆负1楼",
+    perso: "胡女士",
+    telep: "13671770184",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海宝山区汶水路近沪太路红星美凯龙一楼",
+    perso: "周女士",
+    telep: "13816052094",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海闵行区吴中路近金汇南路剪刀石头布4楼",
+    perso: "牛女士",
+    telep: "18917904971",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海嘉定区曹安路近定边路好美家商场一楼",
+    perso: "王女士",
+    telep: "13916408254",
+  },
+   {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海徐汇区文定路近蒲汇塘路盛源大地商场二楼",
+    perso: "蒋女士",
+    telep: "18964103676",
   },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  全能地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+  地址：上海浦东区浦东新区龙东大道5385号龙东大厦首层
   
-  总部电话：0757-22308180
+  联系人：徐先生
   
-  全国免费服务热线：400-830-4555
+  联系电话：021-58588280
   
-  售后服务热线：0757-22308180
+  
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
-  ###联系人：X先生
-  ###联系电话：0757-12345678
+  ###地址：上海浦东区浦东新区龙东大道5385号龙东大厦首层
+  ###联系人：徐先生
+  ###联系电话：021-58588280
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 地址：XXX
+addr: 地址：上海浦东区浦东新区龙东大道5385号龙东大厦首层
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
