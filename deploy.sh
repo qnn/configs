@@ -15,6 +15,17 @@ IFS=$'\n'
 WEBSITES=($(cat "$(pwd)/WEBSITES"))
 IFS=$OLD_IFS
 
+QUIET="--quiet"
+
+for arg in "$@"
+do
+	case "$arg" in
+	--no-quiet)
+		QUIET=""
+		;;
+	esac
+done
+
 for WEBSITE in "${WEBSITES[@]}"
 do
 
@@ -23,9 +34,13 @@ do
 	fi
 	
 	if [[ ! -d "$SITES/$WEBSITE/.git" ]]; then
-		cd "$SITES/$WEBSITE" && $GIT clone git://github.com/qnn/template.git "$SITES/$WEBSITE" &
+		cd "$SITES/$WEBSITE" &&
+		$GIT clone $QUIET git://github.com/qnn/template.git "$SITES/$WEBSITE" &&
+		echo "$WEBSITE is OK." &
 	else
-		cd "$SITES/$WEBSITE" && $GIT pull origin master &
+		cd "$SITES/$WEBSITE" &&
+		$GIT pull $QUIET origin master &&
+		echo "$WEBSITE is already up-to-date." &
 	fi
 
 done
