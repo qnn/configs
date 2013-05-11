@@ -28,13 +28,14 @@ Use this script to generate nginx configs.
 
 Automatically clone (update if exist) template to each site. No files changed.
 
-    bash deploy.sh
+    bash deploy.sh --no-quiet
 
 ## Build
 
 Build Jekyll sites with config file from ``configs`` directory.  
 Must define which sites to build in ``TODO`` file.  
-To build all, simply execute this command first: ``cp WEBSITES TODO`` .
+To build all, simply execute this command first: ``cp WEBSITES TODO`` .  
+This script may ask you how many sites to build concurrently.
 
     bash build.sh
 
