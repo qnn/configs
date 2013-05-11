@@ -27,7 +27,7 @@ NO=0;
 for SITE in "${SITELIST[@]}"
 do
 	echo "  $NO) ${SITE##*/}"
-	((NO++))
+	(( NO = NO + 1 ))
 done
 
 read NO
@@ -86,7 +86,7 @@ bgxupdate() {
 		echo "${bgxjobs}" | grep " ${bgxpid} " >/dev/null 2>&1
 		if [[ $? -eq 0 ]] ; then
 			bgxgrp="${bgxgrp} ${bgxpid}"
-			((bgxcount ++))
+			(( bgxcount = bgxcount + 1 ))
 		fi
 		set -e
 	done

@@ -21,7 +21,7 @@ NO=0;
 for SITE in "${SITELIST[@]}"
 do
 	echo "  $NO) ${SITE##*/}"
-	((NO++))
+	(( NO = NO + 1 ))
 done
 
 read NO
