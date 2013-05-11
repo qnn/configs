@@ -1,8 +1,8 @@
 #!/bin/bash
 
 SITELIST=(
-	$(find "`pwd`" -type f -maxdepth 1 -name "TODO*")
-	$(find "`pwd`" -type f -maxdepth 1 -name "WEBSITES*")
+	$(find "`pwd`" -maxdepth 1 -type f -regex '.*TODO.*')
+	$(find "`pwd`" -maxdepth 1 -type f -regex '.*WEBSITES.*')
 )
 
 echo "Found ${#SITELIST[@]} files. Which one to use?"
