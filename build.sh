@@ -79,7 +79,7 @@ fi
 bgxupdate() {
 	bgxoldgrp=${bgxgrp}
 	bgxgrp=""
-	((bgxcount = 0))
+	bgxcount=0
 	bgxjobs=" $(jobs -pr | tr '\n' ' ')"
 	for bgxpid in ${bgxoldgrp} ; do
 		set +e
