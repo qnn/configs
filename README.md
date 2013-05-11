@@ -10,19 +10,17 @@ The sample config file is sample_config.yml and should be the same as the one [h
 
 **Generate**
 
-*Make sure target directories and files do not exist before executing this script.*
+*Make sure target directories and files do not exist before executing this script.*  
+This script may ask you which website list file to read.
 
     bash generate_default_configs.sh
 
 ## Default nginx configs
 
-Use this script to generate nginx configs.
+Use this script to generate nginx configs.  
+This script may ask you which website list file to read and where to save the config file.
 
     bash generate_nginx_configs.sh
-
-*or*
-
-    bash generate_nginx_configs.sh > /etc/nginx/sites-available/qnn_agents
 
 ## Deploy
 
