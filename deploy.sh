@@ -40,6 +40,13 @@ IFS=$'\n'
 WEBSITES=($(cat $FILE))
 IFS=$OLD_IFS
 
+LENGTH=${#WEBSITES[@]}
+
+if [[ LENGTH -eq 0 ]]; then
+	echo "File is empty."
+	exit
+fi
+
 QUIET="--quiet"
 
 for arg in "$@"

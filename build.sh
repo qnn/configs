@@ -49,7 +49,8 @@ IFS=$OLD_IFS
 LENGTH=${#TODOS[@]}
 
 if [[ LENGTH -eq 0 ]]; then
-	echo "TODO is empty."
+	echo "File is empty."
+	exit
 fi
 
 handle_sigint() {
