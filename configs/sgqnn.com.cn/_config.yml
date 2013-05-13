@@ -87,7 +87,7 @@ contacthtml: |
   ###联系电话：0751-8916140
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 113.607713, 24.806119 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省韶关市熏风路9号(市委大门旁边)

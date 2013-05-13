@@ -93,7 +93,7 @@ contacthtml: |
   ###联系电话：0750-18027620569
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 113.096481, 22.606141 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省江门市蓬江区东华一路东华大桥右侧全能保险柜专卖店

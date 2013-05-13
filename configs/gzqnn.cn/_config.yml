@@ -79,7 +79,7 @@ contacthtml: |
   ###联系电话：0797-8287775
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 114.949117, 25.860297 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：江西省赣州市厚德路76-20号

@@ -79,7 +79,7 @@ contacthtml: |
   ###联系电话：0771-2801108/13978855858
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 108.335032, 22.823005 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广西省南宁市青秀区南宁市新民路34-37号（区公安厅旁）

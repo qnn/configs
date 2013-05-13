@@ -184,7 +184,7 @@ contacthtml: |
   ###联系电话：0769-23036190
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 113.751877, 23.030645 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省东莞市南城区莞太路段23号鸿禧大厦103

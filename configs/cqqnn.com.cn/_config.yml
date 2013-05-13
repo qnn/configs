@@ -100,7 +100,7 @@ contacthtml: |
   ###联系电话：023-65230832、13996455099
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 106.447103, 29.530833 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：重庆市沙坪坝区新桥新村88号

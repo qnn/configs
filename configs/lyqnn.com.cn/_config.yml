@@ -81,7 +81,7 @@ contacthtml: |
   ###联系电话：0734-4369535
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 112.845780, 26.417829 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：湖南耒阳市城北路

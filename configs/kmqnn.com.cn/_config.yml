@@ -93,7 +93,7 @@ contacthtml: |
   ###联系电话：871-3839473
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 102.790704, 25.009390 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：云南省昆明市盘龙区环城东路36号昆明理工大学新迎校区科技1号楼1楼铺面

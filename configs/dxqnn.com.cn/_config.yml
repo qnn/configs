@@ -81,7 +81,7 @@ contacthtml: |
   ###联系电话：	13877066366
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 107.980539, 21.546538 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广西东兴教育路249

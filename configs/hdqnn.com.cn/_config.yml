@@ -114,7 +114,7 @@ contacthtml: |
   ###联系电话：20-36981553
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 113.229024, 23.398644 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省广州市花都区花都区新华街宝华路41号

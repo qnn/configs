@@ -84,7 +84,7 @@ contacthtml: |
   ###联系电话：0768-2289322
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 116.610571, 23.689708 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省潮州市潮州大道汇景园101-102号（南科医院隔壁）

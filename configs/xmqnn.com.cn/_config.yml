@@ -79,7 +79,7 @@ contacthtml: |
   ###联系电话：0592-13960165052
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 118.092421, 24.605358 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：福建省厦门市漳州集美区杏林杏前路内茂立交内茂公交站旁

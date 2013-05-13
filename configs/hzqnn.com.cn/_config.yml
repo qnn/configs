@@ -101,7 +101,7 @@ contacthtml: |
   ###联系电话：0752-2089979/ 13923635857
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 114.412664, 23.067956 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东惠州惠城区麦地南路大富贵宾馆一楼

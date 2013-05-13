@@ -87,7 +87,7 @@ contacthtml: |
   ###联系电话：0757-28106695
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 113.098403, 22.945574 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省佛山市顺德区乐从东恒家具城一排一座一号前仓

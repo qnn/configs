@@ -93,7 +93,7 @@ contacthtml: |
   ###联系电话：0755-25418448
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 114.139546, 22.560545 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省深圳市罗湖区华丽路2002号

@@ -81,7 +81,7 @@ contacthtml: |
   ###联系电话：0772-2833119
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 109.421742, 24.334358 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广西柳北区三中路78-1号(图书馆斜对面）

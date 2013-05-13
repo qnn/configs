@@ -108,7 +108,7 @@ contacthtml: |
   ###联系电话：0754-84485840
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 116.317237, 23.275143 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东汕头市潮南区陈店镇湖西广汕公路龙海楼

@@ -80,7 +80,7 @@ contacthtml: |
   ###联系电话：020-31823906
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 113.836601, 23.296999 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省广州增城市荔城大道103号

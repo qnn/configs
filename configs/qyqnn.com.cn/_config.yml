@@ -79,7 +79,7 @@ contacthtml: |
   ###联系电话：0763-3360111
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 113.061389, 23.704840 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省清远清城区金碧湾花园31号楼首层8号商铺（球场旁边）

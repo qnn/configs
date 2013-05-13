@@ -101,7 +101,7 @@ contacthtml: |
   ###联系电话：025-84581324
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 118.804176, 32.020939 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：江苏南京秦淮区龙蟠中路596号101室

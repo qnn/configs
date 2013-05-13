@@ -80,7 +80,7 @@ contacthtml: |
   ###联系电话：0531-85825988
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 117.015455, 36.680149 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：济南市天桥区明湖西路济安街8号（火车站东行1000米北坦大街站即到）

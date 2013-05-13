@@ -87,7 +87,7 @@ contacthtml: |
   ###联系电话：0660	-6625029	
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 115.341936, 22.972594 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东汕尾市海丰县城商业街天桥边

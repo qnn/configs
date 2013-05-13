@@ -81,7 +81,7 @@ contacthtml: |
   ###联系电话：0596-2022137
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 117.664009, 24.510095 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：福建漳州芗城区漳州市芗城区新华南路42号

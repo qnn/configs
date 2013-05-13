@@ -80,7 +80,7 @@ contacthtml: |
   ###联系电话：0851-4122398
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 106.631872, 26.607160 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：贵州贵阳金阳新区世纪城福州街10号

@@ -79,7 +79,7 @@ contacthtml: |
   ###联系电话：0391-8551899
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 103.881609, 36.057762 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：甘肃省兰州市城关区张苏滩458号、三森美居3F-2-4

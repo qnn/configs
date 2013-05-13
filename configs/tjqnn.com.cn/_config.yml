@@ -142,7 +142,7 @@ contacthtml: |
   ###联系电话：022-27115769
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 117.200016, 39.131930 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：天津和平区和平路新中国商厦3楼

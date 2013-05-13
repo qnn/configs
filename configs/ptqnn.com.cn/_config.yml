@@ -87,7 +87,7 @@ contacthtml: |
   ###联系电话：0594-6266012/13706098081
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 119.104662, 25.458523 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：福建省涵江一期商业城大门正对面

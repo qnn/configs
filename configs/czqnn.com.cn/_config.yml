@@ -80,7 +80,7 @@ contacthtml: |
   ###联系电话：0735-2266339
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 113.046870, 25.806998 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：湖南省郴州市苏仙区苏园路2号

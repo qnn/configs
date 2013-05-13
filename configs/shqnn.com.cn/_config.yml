@@ -143,7 +143,7 @@ contacthtml: |
   ###联系电话：021-58588280
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 121.639193, 31.228264 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：上海浦东区浦东新区龙东大道5385号龙东大厦首层

@@ -79,7 +79,7 @@ contacthtml: |
   ###联系电话：0731-58229511
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 112.908859, 27.868811 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：湖南省湘潭市韶山西路22号（霖园天桥旁）

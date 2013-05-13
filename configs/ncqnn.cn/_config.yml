@@ -79,7 +79,7 @@ contacthtml: |
   ###联系电话：0791-2182144
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 115.934559, 28.671289 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：江西省南昌市青山湖区洪都中大道149号

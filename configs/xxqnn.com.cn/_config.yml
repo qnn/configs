@@ -81,7 +81,7 @@ contacthtml: |
   ###联系电话：0766-2888168
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 112.239298, 22.714851 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东云浮新兴县新城镇新洲大道南26-27号

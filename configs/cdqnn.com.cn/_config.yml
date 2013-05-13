@@ -86,7 +86,7 @@ contacthtml: |
   ###联系电话：028-13980993998
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 104.055303, 30.658362 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：四川省成都市青羊区锦里中路128号附1号

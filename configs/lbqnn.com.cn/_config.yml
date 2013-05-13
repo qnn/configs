@@ -79,7 +79,7 @@ contacthtml: |
   ###联系电话：0772-4214446
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 109.239160, 23.735769 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广西省来宾市柳来路269号

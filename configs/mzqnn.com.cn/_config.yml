@@ -101,7 +101,7 @@ contacthtml: |
   ###联系电话：0753-2248204
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 116.119851, 24.300359 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省梅州市江南梅新路5-8号店（即宝商大厦斜对面）

@@ -101,7 +101,7 @@ contacthtml: |
   ###联系电话：0510-82408450
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 113.28,22.76
+coord: 120.328490, 31.594250 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：江苏无锡崇安区锡沪中路紫金门花苑120号
