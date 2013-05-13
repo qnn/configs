@@ -2,7 +2,7 @@
 
 # 模板、主题、版式
 # _layout_alpha , _layout_beta , _layout_gamma , _layout_delta
-layouts: _layout_alpha
+layouts: _layout_gamma
 
 # 网站 URL ，最后勿加入斜杠
 url: http://www.cqqnn.com.cn
@@ -57,46 +57,53 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "重庆省沙坪坝沙坪坝区新桥新村88号(新桥医院东)",
+    addre: "重庆市沙坪坝区新桥正街(永辉超市附近)",
     perso: "文先生",
-    telep: "023-65230832",
+    telep: "023-65230832、139964555099",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "重庆省渝北区回兴宝桐一路209号（3号轻轨回兴站西北角）",
+    addre: "重庆市渝北区松石大道(SM广场冉家坝沃尔玛收银口)",
     perso: "文先生",
-    telep: "023-65230832",
+    telep: "139964555099、15023669531",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "重庆省合川区合川区南园西路538号(区府后门)",
+    addre: "重庆市合川区南园西路538号(区府后门)",
     perso: "陈先生",
     telep: "023-42731023",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "重庆万州区国本路92号",
+    perso: "付先生",
+    telep: "13212519188",
   },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：重庆省沙坪坝沙坪坝区新桥新村88号(新桥医院东)
+  地址：重庆市沙坪坝区新桥新村88号
   
   联系人：文先生
   
-  联系电话：023-65230832
+  联系电话：023-65230832、13996455099
 
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：重庆省沙坪坝沙坪坝区新桥新村88号(新桥医院东)
+  ###地址：重庆市沙坪坝区新桥新村88号
   ###联系人：文先生
-  ###联系电话：023-65230832
+  ###联系电话：023-65230832、13996455099
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 地址：重庆省沙坪坝沙坪坝区新桥新村88号(新桥医院东)
+addr: 地址：重庆市沙坪坝区新桥新村88号
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
