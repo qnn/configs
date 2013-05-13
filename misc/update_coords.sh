@@ -23,6 +23,16 @@ PRINT()
 	printf "%s%${COL}s\n" "$1" "[$2]"
 }
 
+IS_FORCE=0
+for arg in "$@"
+do
+	case "$arg" in
+		--force)
+			IS_FORCE=1
+			;;
+	esac
+done
+
 for CONFIG in "${ALL_CONFIGS[@]}"
 do
 	ADDR=$(grep '^addr: 地址：' $CONFIG |
@@ -30,7 +40,9 @@ do
 		   sed 's/\(.*\)[(（].*[)）]/\1/')
 	if [[ ${#ADDR} -gt 5 ]]; then
 		PRINT "${CONFIG}" "PROCESSING"
-		if grep --quiet '^coord:.* # auto-updated' $CONFIG; then
+		if [[ $IS_FORCE -eq 0 ]] && 
+			grep --quiet '^coord:.* # auto-updated' $CONFIG
+		then
 			printf "\e[1A"
 			PRINT "${CONFIG}" "PASS"
 			continue
