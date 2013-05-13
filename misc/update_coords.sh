@@ -30,12 +30,17 @@ do
 		   sed 's/\(.*\)[(（].*[)）]/\1/')
 	if [[ ${#ADDR} -gt 5 ]]; then
 		PRINT "${CONFIG}" "PROCESSING"
+		if grep --quiet '^coord:.* # auto-updated' $CONFIG; then
+			printf "\e[1A"
+			PRINT "${CONFIG}" "PASS"
+			continue
+		fi
 		COORD=$($BASH $(find "`pwd`" -name "addr2geo.sh") ${ADDR} |
 			    $XARGS $BASH $(find "`pwd`" -name "geo2point.sh") |
 			    $XARGS $BASH $(find "`pwd`" -name "point2coord.sh"))
 		printf "\e[1A"
 		if [[ $COORD =~ ^[0-9]+\.[0-9]+,\ [0-9]+\.[0-9]+$ ]]; then
-			sed -i.bak "s/coord: .*/coord: ${COORD}/g" "$CONFIG"
+			sed -i.bak "s/coord: .*/coord: ${COORD} # auto-updated/g" "$CONFIG"
 			rm -f "$CONFIG.bak"
 			PRINT "${CONFIG}" "DONE"
 		else
