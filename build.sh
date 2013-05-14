@@ -110,7 +110,8 @@ for TODO in "${TODOS[@]}"
 do
 	bgxgrp=${jobsgroup} ; \
 	bgxlimit $CONCURRENT \
-	$JEKYLL build --source "$SITES/$TODO" --destination "$SITES/$TODO/_site" --config "$CONFIGS/$TODO/_config.yml" ; \
+	$JEKYLL build --source "$SITES/$TODO" --destination "$SITES/$TODO/_site" \
+		--config "$SITES/$TODO/_config.yml","$CONFIGS/$TODO/_config.yml" ; \
 	jobsgroup=${bgxgrp}
 	echo 'ACTIVE JOBS: [' ${jobsgroup} ']'
 done
