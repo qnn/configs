@@ -4,6 +4,7 @@ set -e
 
 CONFIGS="$(pwd)/configs"
 SITES="$(pwd)/sites"
+SOURCE="$(pwd)/source"
 
 JEKYLL=$(which jekyll)
 
@@ -11,9 +12,12 @@ if [[ ! -d $CONFIGS ]]; then
 	echo "$CONFIGS: No such directory."
 	exit
 fi
-if [[ ! -d $SITES ]]; then
-	echo "$SITES: No such directory."
+if [[ ! -d $SOURCE ]]; then
+	echo "$SOURCE: No such directory. Deploy first."
 	exit
+fi
+if [[ ! -d $SITES ]]; then
+	mkdir "$SITES"
 fi
 
 SITELIST=(
@@ -108,10 +112,13 @@ bgxlimit() {
 jobsgroup=""
 for TODO in "${TODOS[@]}"
 do
+	if [[ ! -d "$SITES/$TODO" ]]; then
+		mkdir "$SITES/$TODO"
+	fi
 	bgxgrp=${jobsgroup} ; \
 	bgxlimit $CONCURRENT \
-	$JEKYLL build --source "$SITES/$TODO" --destination "$SITES/$TODO/_site" \
-		--config "$SITES/$TODO/_config.yml","$CONFIGS/$TODO/_config.yml" ; \
+	$JEKYLL build --source "$SOURCE" --destination "$SITES/$TODO" \
+		--config "$SOURCE/_config.yml","$CONFIGS/$TODO/_config.yml" ; \
 	jobsgroup=${bgxgrp}
 	echo 'ACTIVE JOBS: [' ${jobsgroup} ']'
 done
