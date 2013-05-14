@@ -29,19 +29,19 @@ copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a h
 # _layout_delta: 720 x 288px
 slider: [
   {
-    image: "http://www.qnn.com.cn/images/index-banner03.jpg",
+    image: "http://test.html9.com/images/index-banner03.jpg",
     link: "/b-4538.html",
   },
   {
-    image: "http://www.qnn.com.cn/images/index-banner03.jpg",
+    image: "http://test.html9.com/images/index-banner03.jpg",
     link: "/b-4538.html",
   },
   {
-    image: "http://www.qnn.com.cn/images/index-banner03.jpg",
+    image: "http://test.html9.com/images/index-banner03.jpg",
     link: "/b-4538.html",
   },
   {
-    image: "http://www.qnn.com.cn/images/index-banner03.jpg",
+    image: "http://test.html9.com/images/index-banner03.jpg",
     link: "/b-4538.html",
   },
 ]
