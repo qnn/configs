@@ -22,19 +22,19 @@ Use this script to generate nginx configs. This script may ask you which website
 
 ### Deploy
 
-Automatically clone (update if exist) template to each site. No files changed. This script may ask you which website list file to read.
+Automatically clone (update if exist) templates to ``source`` directory.
 
-    bash deploy.sh [--no-quiet]
+    bash deploy.sh
 
 ### Build
 
-Build Jekyll sites with config file from ``configs`` directory. This script may ask you which website list file to read and how many sites to build concurrently.
+Build Jekyll sites with source file from ``source`` directory and config file from ``configs`` directory. This script may ask you which website list file to read and how many sites to build concurrently.
 
     bash build.sh
 
 ### Update coordinates
 
-Update coordinates with addresses in existing config files.
+Update coordinates with addresses in existing config files. You may need to update the submodule ``bdmaps-utils`` for the first time. Use ``--force`` option will also update those coordinates updated before.
 
     git submodule init
     git submodule update
