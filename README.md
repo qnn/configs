@@ -12,13 +12,13 @@ Use this bash script to copy sample config file ``sample_config.yml`` to each su
 
 Generate for only new sites. Make sure target directories and files do not exist before executing this script. This script may ask you which website list file to read.
 
-    bash generate_default_configs.sh
+    bash generate_default_configs.sh [DIR1[ DIR2[ ...]]]
 
 ### Default nginx configs
 
 Use this script to generate nginx configs. This script may ask you which website list file to read and where to save the config file.
 
-    bash generate_nginx_configs.sh
+    bash generate_nginx_configs.sh [DIR1[ DIR2[ ...]]]
 
 ### Deploy
 
@@ -30,7 +30,7 @@ Automatically clone (update if exist) templates to ``source`` directory.
 
 Build Jekyll sites with source file from ``source`` directory and config file from ``configs`` directory. This script may ask you which website list file to read and how many sites to build concurrently.
 
-    bash build.sh
+    bash build.sh [DIR1[ DIR2[ ...]]]
 
 ### Update coordinates
 
