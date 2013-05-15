@@ -64,6 +64,17 @@ if [[ LENGTH -eq 0 ]]; then
 	exit
 fi
 
+for TODO in "${TODOS[@]}"
+do
+	if [[ ! -d "$CONFIGS/$TODO" ]]; then
+		echo "At least this config does not exist: $TODO"
+		exit
+	fi
+	if [[ ! -d "$SITES/$TODO" ]]; then
+		mkdir "$SITES/$TODO"
+	fi
+done
+
 handle_sigint() {
 	set +e
 	for job in `jobs -p`
@@ -119,9 +130,6 @@ bgxlimit() {
 jobsgroup=""
 for TODO in "${TODOS[@]}"
 do
-	if [[ ! -d "$SITES/$TODO" ]]; then
-		mkdir "$SITES/$TODO"
-	fi
 	bgxgrp=${jobsgroup} ; \
 	bgxlimit $CONCURRENT \
 	$JEKYLL build --source "$SOURCE" --destination "$SITES/$TODO" \
