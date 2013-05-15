@@ -20,41 +20,46 @@ if [[ ! -d $SITES ]]; then
 	mkdir "$SITES"
 fi
 
-SITELIST=(
-	$(find "`pwd`" -maxdepth 1 -type f -regex '.*TODO.*')
-	$(find "`pwd`" -maxdepth 1 -type f -regex '.*WEBSITES.*')
-)
+if [[ ${#@} -eq 0 ]]; then
+	SITELIST=(
+		$(find "`pwd`" -maxdepth 1 -type f -regex '.*TODO.*')
+		$(find "`pwd`" -maxdepth 1 -type f -regex '.*WEBSITES.*')
+	)
 
-echo "Found ${#SITELIST[@]} files. Select one or enter site domain names (separated by ','):"
+	echo "Found ${#SITELIST[@]} list files."
+	echo "Select one to read or enter site domain names (separated by spaces):"
 
-NO=0;
-for SITE in "${SITELIST[@]}"
-do
-	echo "  $NO) ${SITE##*/}"
-	(( NO = NO + 1 ))
-done
+	NO=0;
+	for SITE in "${SITELIST[@]}"
+	do
+		echo "  $NO) ${SITE##*/}"
+		(( NO = NO + 1 ))
+	done
 
-read NO
+	read NO
 
-if [[ $NO =~ ^[0-9]+$ ]] && [[ $NO -ge 0 ]] && [[ $NO -lt ${#SITELIST[@]} ]]; then
-	FILE=${SITELIST[$NO]}
+	if [[ $NO =~ ^[0-9]+$ ]] && [[ $NO -ge 0 ]] && [[ $NO -lt ${#SITELIST[@]} ]]; then
+		FILE=${SITELIST[$NO]}
 
-	echo "Using $FILE."
+		echo "Using $FILE."
 
-	OLD_IFS=$IFS
-	IFS=$'\n'
-	TODOS=($(cat $FILE))
-	IFS=$OLD_IFS
-else
-	if [[ ${#NO} -gt 0 ]]; then
 		OLD_IFS=$IFS
-		IFS=$','
-		TODOS=($NO)
+		IFS=$'\n'
+		TODOS=($(cat $FILE))
 		IFS=$OLD_IFS
 	else
-		echo "No input file."
-		exit
+		if [[ ${#NO} -gt 0 ]]; then
+			OLD_IFS=$IFS
+			IFS=$' '
+			TODOS=($NO)
+			IFS=$OLD_IFS
+		else
+			echo "No input file."
+			exit
+		fi
 	fi
+else
+	TODOS=($@)
 fi
 
 LENGTH=${#TODOS[@]}
