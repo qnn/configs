@@ -49,6 +49,16 @@ if [[ LENGTH -eq 0 ]]; then
 	exit
 fi
 
+for WEBSITE in "${WEBSITES[@]}"
+do
+	if [[ ! $WEBSITE =~ ^([a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,6}$ ]]; then
+		echo "At least '$WEBSITE' does not seem to be a valid domain name."
+		exit
+	fi
+done
+
+echo "${LENGTH} domain names are fine."
+
 echo -n "File to save: "
 
 read SAVE
