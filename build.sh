@@ -89,12 +89,15 @@ handle_sigint() {
 
 trap handle_sigint SIGINT
 
-echo "Q: How many sites to build concurrently? [default=3, max=10, min=1]"
-echo -n "A: "
-read CONCURRENT;
+if [[ LENGTH -le 3 ]]; then
+	CONCURRENT=LENGTH
+else
+	echo "How many sites to build concurrently? [default=3, max=10, min=1]"
+	read CONCURRENT;
 
-if [[ ! $CONCURRENT -ge 1 ]] || [[ ! $CONCURRENT -le 10 ]]; then
-	CONCURRENT=3
+	if [[ ! $CONCURRENT -ge 1 ]] || [[ ! $CONCURRENT -le 10 ]]; then
+		CONCURRENT=3
+	fi
 fi
 
 # http://stackoverflow.com/a/1685440/855665
