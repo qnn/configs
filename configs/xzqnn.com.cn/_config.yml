@@ -61,13 +61,6 @@ photos: [
     perso: "范先生",
     telep: "18361286670",
   },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "江苏徐州八里华隆家具城南大厅（楚韵电器城）",
-    perso: "范先生",
-    telep: "18361286670",
-  },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
