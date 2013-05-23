@@ -57,16 +57,16 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "重庆市沙坪坝区新桥正街(永辉超市附近)",
+    addre: "重庆市沙坪坝区新桥新村88号(新桥医院东)",
     perso: "文先生",
-    telep: "023-65230832、139964555099",
+    telep: "023-65230832",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "重庆市渝北区松石大道(SM广场冉家坝沃尔玛收银口)",
+    addre: "重庆市渝北区回兴宝桐一路209号",
     perso: "文先生",
-    telep: "139964555099、15023669531",
+    telep: "023-65230832",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
@@ -75,35 +75,28 @@ photos: [
     perso: "陈先生",
     telep: "023-42731023",
   },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "重庆万州区国本路92号",
-    perso: "付先生",
-    telep: "13212519188",
-  },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：重庆市沙坪坝区新桥新村88号
+  地址：重庆市沙坪坝区新桥新村88号(新桥医院东)
   
   联系人：文先生
   
-  联系电话：023-65230832、13996455099
+  联系电话：023-65230832
 
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：重庆市沙坪坝区新桥新村88号
+  ###地址：重庆市沙坪坝区新桥新村88号(新桥医院东)
   ###联系人：文先生
-  ###联系电话：023-65230832、13996455099
+  ###联系电话：023-65230832
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 106.447103, 29.530833 # auto-updated
 
 # 百度地图框内地址
-addr: 地址：重庆市沙坪坝区新桥新村88号
+addr: 地址：重庆市沙坪坝区新桥新村88号(新桥医院东)
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
