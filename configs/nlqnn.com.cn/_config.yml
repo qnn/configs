@@ -59,14 +59,14 @@ photos: [
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广西省南宁市衡阳西路29-5号（三十六中斜对面）",
     perso: "李兵",
-    telep: "0771-2201789/13647884098",
+    telep: "0771-2201789",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广西省北海市北部湾东路40号（湖南路交汇处中国银行旁）",
     perso: "李兵",
-    telep: "0779-2078393/13807795852",
+    telep: "0779-2078393",
   },
 ]
 
