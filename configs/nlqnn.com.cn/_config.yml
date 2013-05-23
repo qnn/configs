@@ -8,16 +8,16 @@ layouts: _layout_alpha
 url: http://www.nlqnn.com.cn
 
 # 网站名称
-name: 南宁银盾办事处
+name: 南宁办事处
 
 # 默认标题
-title: 全能南宁银盾办事处-南宁银盾保险柜
+title: 全能南宁办事处-南宁保险柜
 
 # 默认描述
 description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
 
 # 默认关键词
-keywords: 南宁银盾保险柜
+keywords: 南宁保险柜
 
 # 版权，请改备案号
 copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备09217978号-41</a>
@@ -57,32 +57,39 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广西省南宁市青秀区南宁市新民路34-37号（区公安厅旁）",
-    perso: "温先生/谭先生",
-    telep: "0771-2801108/13978855858",
+    addre: "广西省南宁市衡阳西路29-5号（三十六中斜对面）",
+    perso: "李兵",
+    telep: "0771-2201789/13647884098",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广西省北海市北部湾东路40号（湖南路交汇处中国银行旁）",
+    perso: "李兵",
+    telep: "0779-2078393/13807795852",
   },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：广西省南宁市青秀区南宁市新民路34-37号（区公安厅旁）
+  地址：广西省南宁市衡阳西路29-5号（三十六中斜对面）
   
-  联系人：温先生/谭先生
+  联系人：李兵
   
-  联系电话：0771-2801108/13978855858
+  联系电话：0771-2201789/13647884098
 
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广西省南宁市青秀区南宁市新民路34-37号（区公安厅旁）
-  ###联系人：温先生/谭先生
-  ###联系电话：0771-2801108/13978855858
+  ###地址：广西省南宁市衡阳西路29-5号（三十六中斜对面）
+  ###联系人：李兵
+  ###联系电话：0771-2201789/13647884098
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 108.335032, 22.823005 # auto-updated
 
 # 百度地图框内地址
-addr: 地址：广西省南宁市青秀区南宁市新民路34-37号（区公安厅旁）
+addr: 地址：广西省南宁市衡阳西路29-5号（三十六中斜对面）
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
