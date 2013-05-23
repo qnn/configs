@@ -57,50 +57,29 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省广州市海珠区江南大道南411号",
-    perso: "李小姐",
-    telep: "020-84266211",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省广州市黄埔区黄埔东路47-49号",
-    perso: "冯小姐",
-    telep: "020-82276997",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省广州市天河区正佳广场三楼友谊商场",
-    perso: "李小姐",
-    telep: "020-84266211",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省广州市海珠区赤岗西路328号消防器材厂内",
-    perso: "王小姐/胡小姐",
-    telep: "020-84224868",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省广州市花都区花都区新华街宝华路41号",
+    addre: "广东省广州市花都区新华街宝华路41号",
     perso: "刘先生",
     telep: "20-36981553",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省广州市新塘新塘镇三横中路1幢127号",
+    addre: "广东省广州市增城区荔城大道103号",
     perso: "刘先生",
-    telep: "20-82690518",
+    telep: "20-36981553",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省广州市新塘镇三横中路1幢127号",
+    perso: "刘先生",
+    telep: "20-36981553",
   },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：广东省广州市花都区花都区新华街宝华路41号
+  地址：广东省广州市花都区新华街宝华路41号
   
   联系人：刘先生
   
@@ -109,7 +88,7 @@ contact: |
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省广州市花都区花都区新华街宝华路41号
+  ###地址：广东省广州市花都区新华街宝华路41号
   ###联系人：刘先生
   ###联系电话：20-36981553
 
@@ -117,7 +96,7 @@ contacthtml: |
 coord: 113.229024, 23.398644 # auto-updated
 
 # 百度地图框内地址
-addr: 地址：广东省广州市花都区花都区新华街宝华路41号
+addr: 地址：广东省广州市花都区新华街宝华路41号
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
