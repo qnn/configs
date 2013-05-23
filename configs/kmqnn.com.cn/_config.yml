@@ -75,6 +75,27 @@ photos: [
     perso: "刘先生",
     telep: "871-13987163238",
   },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "玉溪市红塔区玉兴路43-5号",
+    perso: "李先生",
+    telep: "877-13988406068",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "楚雄市鹿城镇鹿城北路53号",
+    perso: "余先生",
+    telep: "878-3133901",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "瑞丽市人民路14号",
+    perso: "陈先生",
+    telep: "692-4123234",
+  },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
