@@ -57,29 +57,15 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省江门市蓬江区东华一路东华大桥右侧全能保险柜专卖店",
+    addre: "广东省江门市蓬江区东华一路东华大桥右侧",
     perso: "梁经理",
     telep: "0750-18027620569",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省江门市开平长沙沿江西路21号之109",
-    perso: "李经理",
-    telep: "0750-13318658112",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省江门市开平长沙人民西路1号首层107铺",
-    perso: "李经理",
-    telep: "0750-13672908992",
   },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：广东省江门市蓬江区东华一路东华大桥右侧全能保险柜专卖店
+  地址：广东省江门市蓬江区东华一路东华大桥右侧
   
   联系人：梁经理
   
