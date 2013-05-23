@@ -57,35 +57,35 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "北京市亚奥北苑路甲13号办公用品区",
+    addre: "北京市昌平区东小口镇合立方中滩六号院一号楼409室",
     perso: "王经理",
     telep: "010-84943881",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "北京市复兴门外大街15号B1层办公用品区",
+    addre: "北京市朝阳区亚奥北苑路甲13号办公用品区",
     perso: "王经理",
     telep: "010-84943881",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "北京市成寿寺路308号主楼西区415号",
+    addre: "北京市西城区复兴门外大街15号B1层办公用品区",
     perso: "王经理",
     telep: "010-84943881",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "北京市翠微路5号翠微大厦5层",
+    addre: "北京市朝阳区成寿寺路308号主楼西区415号",
     perso: "王经理",
     telep: "010-84943881",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "立汤路186号龙德广场四层办公用品区",
+    addre: "北京市海淀区翠微路5号翠微大厦5层",
     perso: "王经理",
     telep: "010-84943881",
   },
@@ -205,7 +205,7 @@ photos: [
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：北京市亚奥北苑路甲13号办公用品区
+  地址：北京市昌平区东小口镇合立方中滩六号院一号楼409室
   
   联系人：王经理
   
@@ -214,7 +214,7 @@ contact: |
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：北京市亚奥北苑路甲13号办公用品区
+  ###地址：北京市昌平区东小口镇合立方中滩六号院一号楼409室
   ###联系人：王经理
   ###联系电话：010-84943881
 
@@ -222,7 +222,7 @@ contacthtml: |
 coord: 116.423400, 40.038403 # auto-updated
 
 # 百度地图框内地址
-addr: 地址：北京市亚奥北苑路甲13号办公用品区
+addr: 地址：北京市昌平区东小口镇合立方中滩六号院一号楼409室
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
