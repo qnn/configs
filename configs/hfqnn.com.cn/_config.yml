@@ -57,16 +57,30 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "广东省汕尾市海丰县城商业街天桥边",
+    perso: "潘先生",
+    telep: "0660-6625029",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "广东省汕尾市大道中段友谊大厦",
+    perso: "叶先生",
+    telep: "0660-3332977",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "汕尾陆丰市陆城南堤路11号",
+    perso: "林坤洲",
+    telep: "0660-13502363846",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省汕尾市城区五马路御景园7栋11号",
+    perso: "黄新伟",
+    telep: "0660-18688079755",
   },
 ]
 
@@ -82,9 +96,9 @@ contact: |
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
-  ###联系人：X先生
-  ###联系电话：0757-12345678
+  ###地址：广东省汕尾市海丰县城商业街天桥边
+  ###联系人：潘先生
+  ###联系电话：0660-6625029
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
