@@ -58,41 +58,41 @@ photos: [
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省东莞市南城区莞太路段23号鸿禧大厦103",
-    perso: "罗小姐",
+    perso: "郑经理",
     telep: "0769-23036190",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省东莞市东城区东纵大道加油站旁",
-    perso: "邓小姐",
+    perso: "郑经理",
     telep: "0769-23397993",
   },
     {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省东莞市长安镇德政中路146号",
-    perso: "李小姐",
+    perso: "郑经理",
     telep: "0769-85539263",
   },
     {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省东莞市常平镇口岸大道7号（东莞火车站旁）",
-    perso: "梁小姐",
+    perso: "郑经理",
     telep: "0769-83339639",
   },
     {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省东莞市虎门镇虎门大道156号（计生办对面）",
-    perso: "吴小姐",
+    perso: "郑经理",
     telep: "0769-81511330",
   },
     {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省东莞市莞城东兴路170号罗沙大厦",
+    addre: "广东省东莞市莞城区东兴路170号罗沙大厦",
     perso: "郑经理",
     telep: "0769-13549483538",
   },
@@ -106,21 +106,21 @@ photos: [
     {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省东莞市长安358省道388号-394号",
+    addre: "广东省东莞市长安镇358省道388号-394号",
     perso: "郑经理",
     telep: "0769-13549483538",
   },
     {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省东莞市长安地王广场镇政府对面时尚电器城",
+    addre: "广东省东莞市长安镇地王广场镇政府对面时尚电器城",
     perso: "郑经理",
     telep: "0769-13549483538",
   },
     {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省东莞市塘厦大道北115号",
+    addre: "广东省东莞市塘厦镇大道北115号",
     perso: "郑经理",
     telep: "0769-13549483538",
   },
@@ -141,21 +141,21 @@ photos: [
     {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省东莞市东城中路美新家居中心二楼",
+    addre: "广东省东莞市莞城区东城中路美新家居中心二楼",
     perso: "郑经理",
     telep: "0769-13549483538",
   },
     {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省东莞市虎门人民南路虎门大道146",
+    addre: "广东省东莞市虎门镇虎门人民南路虎门大道146",
     perso: "郑经理",
     telep: "0769-13549483538",
   },
     {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省东莞市城区东城中路光辉大厦1-6楼",
+    addre: "广东省东莞市莞城区东城中路光辉大厦1-6楼",
     perso: "郑经理",
     telep: "0769-13549483538",
   },
@@ -172,7 +172,7 @@ photos: [
 contact: |
   地址：广东省东莞市南城区莞太路段23号鸿禧大厦103
   
-  联系人：罗小姐
+  联系人：郑经理
   
   联系电话：0769-23036190
   
@@ -180,7 +180,7 @@ contact: |
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
   ###地址：广东省东莞市南城区莞太路段23号鸿禧大厦103
-  ###联系人：罗小姐
+  ###联系人：郑经理
   ###联系电话：0769-23036190
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
