@@ -57,33 +57,105 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "广东省河源市源城区永和路与大同路交汇处(万隆一品对面)",
+    perso: "黄先生",
+    telep: "0762-3360870",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "广东省河源市源城红星路东昌盛街交汇处",
+    perso: "黄先生",
+    telep: "0762-3360870",
   },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省河源市源城区大桥南路31号（东埔老桥头）",
+    perso: "黄先生",
+    telep: "0762-3360870",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省河源市源城区越王大道红绿灯处",
+    perso: "黄先生",
+    telep: "0762-3360870",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省河源市源城区越王大道(雅居乐花对面)",
+    perso: "黄先生",
+    telep: "0762-3360870",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省河源市源城区文明路万夏虹景61-62卡",
+    perso: "黄先生",
+    telep: "0762-3360870",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省河源市源城区河源大道源城地税旁",
+    perso: "黄先生",
+    telep: "0762-3360870",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省河源市源城区红星路203号（市行政服务中心旁）",
+    perso: "黄先生",
+    telep: "0762-3360870",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省河源市源城区新江一路南3号(丽日广场旁)",
+    perso: "黄先生",
+    telep: "0762-3360870",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省河源市紫金县城西三Y角红绿灯路口",
+    perso: "黄先生",
+    telep: "0762-3360870",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省河源市龙川县龙川县新一中对面（消防大队旁）",
+    perso: "黄先生",
+    telep: "0762-3360870",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省河源市连平县新城大道（新105国道南湖路段）",
+    perso: "黄先生",
+    telep: "0762-3360870",
+  },
+  
+ 
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  全能地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+  全能地址：广东省河源市源城区永和路与大同路交汇处(万隆一品对面
   
-  总部电话：0757-22308180
+  总部电话：0762-3360870
   
   全国免费服务热线：400-830-4555
   
-  售后服务热线：0757-22308180
+  售后服务热线：0762-3360870
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
-  ###联系人：X先生
+  ###地址：广东省河源市连平县新城大道（新105国道南湖路段）
+  ###联系人：黄先生
   ###联系电话：0757-12345678
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
