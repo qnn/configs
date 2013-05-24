@@ -57,30 +57,9 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省汕尾市海丰县城商业街天桥边",
-    perso: "潘先生",
-    telep: "0660-6625029",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省汕尾市大道中段友谊大厦",
-    perso: "叶先生",
-    telep: "0660-3332977",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "汕尾陆丰市陆城南堤路11号",
-    perso: "林坤洲",
-    telep: "0660-13502363846",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省汕尾市城区五马路御景园7栋11号",
-    perso: "黄新伟",
-    telep: "0660-18688079755",
+    addre: "安徽省合肥庐阳区金寨路金融大厦这边",
+    perso: "黄先生",
+    telep: "0551-18855174820",
   },
 ]
 
@@ -96,15 +75,15 @@ contact: |
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省汕尾市海丰县城商业街天桥边
-  ###联系人：潘先生
-  ###联系电话：0660-6625029
+  ###地址：安徽省合肥庐阳区金寨路金融大厦这边
+  ###联系人：黄先生
+  ###联系电话：0551-18855174820
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 地址：XXX
+addr: 地址：安徽省合肥庐阳区金寨路金融大厦这边
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
