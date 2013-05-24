@@ -57,16 +57,107 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "广东省泉州市中山南路271-273号",
+    perso: "庄先生",
+    telep: "0595-22376321",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "广东省晋江市泉安中路165-169号",
+    perso: "庄先生",
+    telep: "0595-85617321",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省仓山区金祥路金山公交总站正对面",
+    perso: "陈文波",
+    telep: "0595-13705024101",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省福清市江滨路（江滨医院斜对面）",
+    perso: "陈文波",
+    telep: "0595-13705024101",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省福清市龙田龙飞路（农业银行正对面）",
+    perso: "陈文波",
+    telep: "0595-13705024101",
+  },
+   {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省漳州市芗城区新华南路42号",
+    perso: "高剑廷",
+    telep: "0595-2022137",
+  },
+   {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省漳州市漳浦县朝阳路十字路口若（农业银行正对面）",
+    perso: "高剑廷",
+    telep: "0595-13960165052",
+  },
+   {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省漳州集美区杏林杏前路内茂立交内茂公交站旁",
+    perso: "高剑廷",
+    telep: "0595-13960165052",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省福建省莆田市 涵江区涵华西路1783号（商业城国美电器正对面",
+    perso: "蔡先生",
+    telep: "0595-6266768",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省莆田市梅园路889号",
+    perso: "蔡先生",
+    telep: "0595-13706098081",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省福建宁德市古田县解放 路234号",
+    perso: "刘先生",
+    telep: "0595-3863298",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省福建宁德市古田县解放 路234号",
+    perso: "刘先生",
+    telep: "0595-3863298",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省福建省武夷山市好美家装潢超市",
+    perso: "陈先生",
+    telep: "0595-18850698333",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省福建省三明市三元区新市南路96幢一层5号",
+    perso: "张小姐",
+    telep: "0595-8806006",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省福建省龙岩市新罗区西城莲花南路",
+    perso: "林先生",
+    telep: "0595-13950802826",
   },
 ]
 
@@ -82,9 +173,9 @@ contact: |
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
-  ###联系人：X先生
-  ###联系电话：0757-12345678
+  ###地址：广东省泉州市中山南路271-273号
+  ###联系人：庄先生
+  ###联系电话：0595-22376321
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
