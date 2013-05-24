@@ -58,27 +58,20 @@ photos: [
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省梅州市江南梅新路5-8号店（即宝商大厦斜对面）",
-    perso: "钟先生",
+    perso: "詹先生",
     telep: "0753-2248204",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省宪梓北路16号店（即丽群小学斜对面）",
+    addre: "广东省梅州市宪新大道",
     perso: "曾小姐",
     telep: "0753-2591759",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省宪梓北路29号1-11（即广发银行侧）",
-    perso: "曾小姐",
-    telep: "0753-6116876",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省江北中路60号店",
+    addre: "广东省梅州市江北中山路",
     perso: "黄小姐",
     telep: "0753-2232638",
   },
@@ -86,9 +79,9 @@ photos: [
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：广东省梅州市江南梅新路5-8号店（即宝商大厦斜对面）
+  地址：广东省梅州市江南梅新路3-5号店
   
-  联系人：钟先生
+  联系人：詹先生
   
   联系电话：0753-2248204
   
@@ -96,7 +89,7 @@ contact: |
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省梅州市江南梅新路5-8号店（即宝商大厦斜对面）
+  ###地址：广东省梅州市江南梅新路3-5号店
   ###联系人：钟先生
   ###联系电话：0753-2248204
 
