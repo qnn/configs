@@ -57,9 +57,30 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "湖北省荆州市北京路与白云路交汇处（荆沙路1-7-8号文湖公园旁）",
-    perso: "崔先生",
-    telep: "0716-8527199",
+    addre: "湖北省荆州市北京西路文湖公园十字路",
+    perso: "周丽",
+    telep: "0716-8260199",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "湖北省荆州市县通运车站出站口对门",
+    perso: "周丽",
+    telep: "0716-5151898",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "湖北省荆州市中山路183#科技馆旁",
+    perso: "陈涛",
+    telep: "0716-7280258",
+  },
+   {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "湖北省荆州市新江口大桥市标转盘处",
+    perso: "胡新财",
+    telep: "0716-6267158",
   },
 ]
 
