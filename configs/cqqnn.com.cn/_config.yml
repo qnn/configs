@@ -2,7 +2,7 @@
 
 # 模板、主题、版式
 # _layout_alpha , _layout_beta , _layout_gamma , _layout_delta
-layouts: _layout_gamma
+layouts: _layout_alpha
 
 # 网站 URL ，最后勿加入斜杠
 url: http://www.cqqnn.com.cn
@@ -64,7 +64,7 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "重庆市渝北区回兴宝桐一路209号",
+    addre: "重庆市渝北区冉家坝沃尔玛购物广场收银口",
     perso: "文先生",
     telep: "023-65230832",
   },
