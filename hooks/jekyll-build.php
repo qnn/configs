@@ -33,9 +33,11 @@ if (isset($_POST['payload'])) {
 		$old_content = file_get_contents($file_name, NULL, NULL, 0, 100000);
 	}
 	
+	$hbar = str_repeat('-', 60);
+	
 	if (count($commands) > 0) {
-		$buffer = '['.date('Y-m-d H:i:s O').'] Start ->'."\n\n";
-		file_put_contents($file_name, $buffer."\n".$old_content);
+		$buffer = '['.date('Y-m-d H:i:s O').'] Start '.$hbar."\n\n";
+		file_put_contents($file_name, $buffer."\n\n\n".$old_content);
 		
 		array_unshift($commands, 'cd '.$base.'/source && '.$git.' pull origin master 2>&1');
 		array_unshift($commands, $git.' pull origin master 2>&1');
@@ -43,14 +45,14 @@ if (isset($_POST['payload'])) {
 		
 		foreach ($commands as $command) {
 			$buffer .= '['.date('Y-m-d H:i:s O').'] $ '.$command."\n";
-			file_put_contents($file_name, $buffer."\n".$old_content);
+			file_put_contents($file_name, $buffer."\n\n\n".$old_content);
 			$buffer .= shell_exec($command);
 			$buffer .= "\n";
-			file_put_contents($file_name, $buffer."\n".$old_content);
+			file_put_contents($file_name, $buffer."\n\n\n".$old_content);
 		}
 		
-		$buffer .= '['.date('Y-m-d H:i:s O').'] <- End'."\n";
-		file_put_contents($file_name, $buffer."\n".$old_content);
+		$buffer .= '['.date('Y-m-d H:i:s O').']   End '.$hbar."\n";
+		file_put_contents($file_name, $buffer."\n\n\n".$old_content);
 		
 		//shell_exec($git.' add --all '.$base.'/hooks/*.log 2>&1');
 		//shell_exec($git.' commit --author "caiguanhao <caiguanhao@gmail.com>" -m "Automatically update jekyll build log files. [WEB HOOKS]" 2>&1');
