@@ -101,7 +101,7 @@ contacthtml: |
   ###联系电话：0716-8527199
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
-coord: 112.244432, 30.330196
+coord: 112.244432, 30.330196 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：湖北省荆州市北京西路文湖公园十字路
