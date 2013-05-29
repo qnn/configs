@@ -59,7 +59,7 @@ photos: [
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "江苏常州市勤业路五星乡政府对面",
     perso: "张先生",
-    telep: "0519-83902010",
+    telep: "519-13511674355",
   },
 ]
 
@@ -69,13 +69,13 @@ contact: |
   
   联系人：张先生
   
-  联系电话：0519-83902010
+  联系电话：519-13511674355
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
   ###地址：江苏常州市勤业路五星乡政府对面
   ###联系人：张先生
-  ###联系电话：0519-83902010
+  ###联系电话：519-13511674355
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 119.941557, 31.800895 # auto-updated

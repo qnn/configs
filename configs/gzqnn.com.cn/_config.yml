@@ -57,22 +57,44 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "广东省广州市海珠区赤岗西路328号全能保险柜",
+    perso: "王小姐",
+    telep: "020-84224868",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "广东省广州市海珠区江南大道南411号",
+    perso: "李小姐",
+    telep: "020-84266211",
   },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省广州市黄埔区黄埔东路47-49号",
+    perso: "冯小姐",
+    telep: "020-82276997",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省广州市天河区正佳广场三楼友谊商场",
+    perso: "李小姐",
+    telep: "020-84266211",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省广州市海珠区赤岗西路328号消防器材厂内",
+    perso: "王小姐/胡小姐",
+    telep: "020-84224868",
+  },
+
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  全能地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+  全能地址：广州市海珠区赤岗西路328号全能保险柜
   
   总部电话：0757-22308180
   
@@ -82,15 +104,15 @@ contact: |
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+  ###地址：广州市海珠区赤岗西路328号全能保险柜
   ###联系人：X先生
-  ###联系电话：0757-12345678
+  ###联系电话：020-84224868
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 地址：XXX
+addr: 地址：广州市海珠区赤岗西路328号全能保险柜
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555

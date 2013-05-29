@@ -57,40 +57,32 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "江苏省苏州市平江区三新路和莫邪路交叉口永林二区",
+    perso: "肖先生",
+    telep: "13923215870",
   },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  全能地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+  地址：江苏省苏州市平江区三新路和莫邪路交叉口永林二区
   
-  总部电话：0757-22308180
+  联系人：肖先生
   
-  全国免费服务热线：400-830-4555
+  联系电话：13923215870
   
-  售后服务热线：0757-22308180
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
-  ###联系人：X先生
-  ###联系电话：0757-12345678
+  ###地址：江苏省苏州市平江区三新路和莫邪路交叉口永林二区
+  ###联系人：肖先生
+  ###联系电话：13923215870
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 地址：XXX
+addr: 地址：江苏省苏州市平江区三新路和莫邪路交叉口永林二区
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555

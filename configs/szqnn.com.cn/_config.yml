@@ -57,6 +57,13 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省深圳市罗湖区泥岗西村海宝阁1栋2楼",
+    perso: "江经理",
+    telep: "0755-25928683",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省深圳市罗湖区华丽路2002号",
     perso: "陈先生",
     telep: "0755-25418448",
@@ -79,24 +86,24 @@ photos: [
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：广东省深圳市罗湖区华丽路2002号
+  地址：广东省深圳市罗湖区泥岗西村海宝阁1栋2楼
   
-  联系人：陈先生
+  联系人：江经理
   
-  联系电话：0755-25418448
+  联系电话：0755-25928683
 
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省深圳市罗湖区华丽路2002号
-  ###联系人：陈先生
-  ###联系电话：0755-25418448
+  ###地址：广东省深圳市罗湖区泥岗西村海宝阁1栋2楼
+  ###联系人：江经理
+  ###联系电话：0755-25928683
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 114.139546, 22.560545 # auto-updated
 
 # 百度地图框内地址
-addr: 地址：广东省深圳市罗湖区华丽路2002号
+addr: 地址：广东省深圳市罗湖区泥岗西村海宝阁1栋2楼
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555

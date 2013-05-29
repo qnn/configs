@@ -66,30 +66,30 @@ photos: [
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "湛江市霞山区民治路",
     perso: "肖先生",
-    telep: "0759-3135987",
+    telep: "0759-2681881",
   },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：湛江市赤坎区海田家私城
+  地址：湛江市霞山区民治路
   
   联系人：肖先生
   
-  联系电话：0759-3135987
+  联系电话：0759-2681881
   
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：湛江市赤坎区海田家私城
+  ###地址：湛江市霞山区民治路
   ###联系人：肖先生
-  ###联系电话：0759-3135987
+  ###联系电话：0759-2681881
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 湛江市赤坎区海田家私城
+addr: 湛江市霞山区民治路
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555

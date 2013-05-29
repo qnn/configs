@@ -57,16 +57,9 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "广东省珠海市前山三台石路31号世邦家居世界",
+    perso: "李玉梅",
+    telep: "0756-13286002828",
   },
 ]
 
@@ -82,9 +75,9 @@ contact: |
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
-  ###联系人：X先生
-  ###联系电话：0757-12345678
+  ###地址：广东省珠海市前山三台石路31号世邦家居世界
+  ###联系人：李玉梅
+  ###联系电话：0756-132860028288
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76

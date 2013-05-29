@@ -54,77 +54,70 @@ service: |
 
 # 专卖店风采（大括号包围的块代表一个项目）
 photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东佛山禅城区季华五路5号御景豪庭首层P1号",
-    perso: "苏小姐/薛小姐",
-    telep: "0757-83967109",
-  },
-  {
+    {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东佛山南海区桂城南海大道北92-11号（南海区政府左侧200米）",
-    perso: "崔先生/梁小姐",
+    perso: "何经理",
     telep: "0757-86327085",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东佛山禅城区季华五路5号御景豪庭首层P1号",
+    perso: "何经理",
+    telep: "0757-83967109",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东佛山南海区黄岐黄海路37号怡富广场地铺192号（风度酒店对面）",
-    perso: "吴小姐",
+    perso: "何经理",
     telep: "0757-81432098",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东佛山三水区西南广海大道中27号（商业城）一区128号",
-    perso: "潘先生/胡小姐",
+    perso: "何经理",
     telep: "0757-87740030",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东佛山高明区沧江路241号",
-    perso: "梁先生/麦小姐",
+    perso: "何经理",
     telep: "0757-88689662",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东佛山禅城区新华路212号（子材大桥往外国语学校方向100米）",
-    perso: "苏小姐/薛小姐",
-    telep: "0757-83967109",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东佛山南海区桂城南海大道北92-11号（南海区政府左侧200米）",
-    perso: "崔先生/梁小姐",
-    telep: "0757-86327085",
+    addre: "广东佛山顺德区乐从东恒家具城一排一座一号前仓（子材大桥往外国语学校方向100米）",
+    perso: "龚先生",
+    telep: "0757-28106695",
   },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：广东省佛山市禅城区季华五路5号御景豪庭首层P1号
+  地址：南海区桂城南海大道北92-11号（南海区政府左侧200米）
   
-  联系人：苏小姐/薛小姐
+  联系人：何经理
   
-  联系电话：0757-83967109
+  联系电话：0757-86327085
 
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市禅城区季华五路5号御景豪庭首层P1号
-  ###联系人：苏小姐/薛小姐
-  ###联系电话：0757-83967109
+  ###地址：南海区桂城南海大道北92-11号（南海区政府左侧200米）
+  ###联系人：何经理
+  ###联系电话：0757-86327085
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.111234, 23.018546 # auto-updated
 
 # 百度地图框内地址
-addr: 地址：广东省佛山市禅城区季华五路5号御景豪庭首层P1号
+addr: 地址：南海区桂城南海大道北92-11号（南海区政府左侧200米）
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555

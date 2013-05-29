@@ -59,28 +59,28 @@ photos: [
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省广州市番禺市桥禺山大道247号",
     perso: "曾小姐",
-    telep: "20-34812833",
+    telep: "020-34812833",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省广州市番禺区市桥环城中路72号",
     perso: "梁小姐",
-    telep: "20-39044876",
+    telep: "020-39044876",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省广州市番禺区市桥富华中路19号",
     perso: "刘小姐",
-    telep: "20-84807066",
+    telep: "020-84807066",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省广州市番禺区洛浦街上教村105国道（即丽江花园对面）",
     perso: "杨小姐",
-    telep: "20-39173376",
+    telep: "020-39173376",
   },
 ]
 

@@ -57,17 +57,74 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "上海省东新区龙东大道5385号龙东大厦首层",
+    perso: "徐先生",
+    telep: "021-58588280",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
-    perso: "X先生",
-    telep: "0757-12345678",
+    addre: "上海省浦东新区妙境路872号（近川环南路路口）",
+    perso: "张小姐",
+    telep: "13918010042",
   },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海省闸北区沪太路589号（近中北路）",
+    perso: "张先生",
+    telep: "13816776700",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海省浦东区沪南路近华夏西路红星美凯龙5层",
+    perso: "郭女士",
+    telep: "15800981123",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海省普陀区真北路近怒江北路红星美凯龙北馆二楼",
+    perso: "刘女士",
+    telep: "18202107240",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海省普陀区真北路近怒江北路红星美凯龙南馆负1楼",
+    perso: "胡女士",
+    telep: "13671770184",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海省宝山区汶水路近沪太路红星美凯龙一楼",
+    perso: "周女士",
+    telep: "13816052094",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海省闵行区吴中路近金汇南路剪刀石头布4楼",
+    perso: "牛女士",
+    telep: "18917904971",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海省嘉定区曹安路近定边路好美家商场一楼",
+    perso: "王女士",
+    telep: "18202107240",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "上海省徐汇区文定路近蒲汇塘路盛源大地商场二楼",
+    perso: "蒋女士",
+    telep: "18964103676",
+  },
+  
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
@@ -82,15 +139,15 @@ contact: |
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
-  ###联系人：X先生
-  ###联系电话：0757-12345678
+  ###地址：浦东新区龙东大道5385号龙东大厦首层
+  ###联系人：徐先生
+  ###联系电话：021-58588280
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 地址：XXX
+addr: 地址：浦东新区龙东大道5385号龙东大厦首层
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555

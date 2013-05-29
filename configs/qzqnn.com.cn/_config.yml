@@ -57,8 +57,8 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "福建泉州中山南路271号",
-    perso: "庄先生	",
+    addre: "福建泉州中山南路271-273号",
+    perso: "庄先生",
     telep: "0595-13505023074",
   },
   {
@@ -72,7 +72,7 @@ photos: [
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：福建泉州晋江泉安中路165-169号
+  地址：福建泉州市中山南路271-273号
   
   联系人：庄先生
   
@@ -82,7 +82,7 @@ contact: |
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：福建泉州晋江泉安中路165-169号
+  ###地址：福建泉州市中山南路271-273号
   ###联系人：庄先生
   ###联系电话：0595-13505023074
 
@@ -90,7 +90,7 @@ contacthtml: |
 coord: 118.591097, 24.816648 # auto-updated
 
 # 百度地图框内地址
-addr: 地址：福建泉州晋江泉安中路165-169号
+addr: 地址：福建泉州市中山南路271-273号
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
