@@ -7,6 +7,8 @@ CONFIGS="$(pwd)/configs"
 SITES="$(pwd)/sites"
 SOURCE="$(pwd)/source"
 
+GIT=$(which git)
+
 echo "Updating $CURRENT ..."
 cd "$CURRENT" && $GIT pull origin master
 
@@ -34,6 +36,8 @@ fi
 if [[ ! -d $SITES ]]; then
 	mkdir "$SITES"
 fi
+
+cd "$CURRENT"
 
 if [[ ${#@} -eq 0 ]]; then
 	SITELIST=(
