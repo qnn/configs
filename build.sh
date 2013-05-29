@@ -2,9 +2,24 @@
 
 set -e
 
+CURRENT="$(pwd)"
 CONFIGS="$(pwd)/configs"
 SITES="$(pwd)/sites"
 SOURCE="$(pwd)/source"
+
+echo "Updating $CURRENT ..."
+cd "$CURRENT" && $GIT pull origin master
+
+if [[ ! -d "$SOURCE" ]]; then
+	mkdir "$SOURCE"
+fi
+
+echo "Updating $SOURCE ..."
+if [[ ! -d "$SOURCE/.git" ]]; then
+	$GIT clone git://github.com/qnn/template.git "$SOURCE"
+else
+	cd "$SOURCE" && $GIT pull origin master
+fi
 
 JEKYLL=$(which jekyll)
 

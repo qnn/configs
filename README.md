@@ -24,12 +24,6 @@ Use this script to generate nginx configs. This script may ask you which website
 
     bash generate_nginx_configs.sh [DIR1[ DIR2[ ...]]]
 
-### Deploy
-
-Automatically clone (update if exist) templates to ``source`` directory.
-
-    bash deploy.sh
-
 ### Build
 
 Build Jekyll sites with source file from ``source`` directory and config file from ``configs`` directory. This script may ask you which website list file to read and how many sites to build concurrently.
