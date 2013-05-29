@@ -2,9 +2,13 @@
 
 This repo contains Jekyll config files of each QNN agent website (more than 80 websites) and several shell script files.
 
-### Flow Chart
+### 重要：自动更新
 
-![QNN Agent Websites Flow Chart](https://raw.github.com/qnn/misc/master/images/flowchart-qnn-agent-websites.png)
+**通过 GitHub 网页直接修改任何 ``_config.yml`` 配置文件会触发服务器自动更新对应网站（所以请小心填写配置文件）**
+
+更改 ``configs`` 目录下任一 ``_config.yml`` 文件都会触发服务器马上自动更新该配置文件对应的网站，但仅限于最新的更改（``HEAD``）。所以，如果你一次过向 GitHub 提交多次更改，触发器也只会运行一次。任何非 ``_config.yml`` 文件的更改都不会触发更新。
+
+更新过程需要大概20秒，在这段时间内，请不要提交同一个文件的更改，以免出错。
 
 ### Default configs for websites
 
@@ -40,6 +44,10 @@ Update coordinates with addresses in existing config files. You may need to upda
     git submodule update
     cd misc
     bash update_coords.sh [--force]
+
+### Flow Chart
+
+* [QNN Agent Websites Flow Chart](https://raw.github.com/qnn/misc/master/images/flowchart-qnn-agent-websites.png)
 
 ### Developers
 
