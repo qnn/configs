@@ -57,47 +57,74 @@ photos: [
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省梅州市江南梅新路5-8号店（即宝商大厦斜对面）",
-    perso: "詹先生",
-    telep: "0753-2248204",
+    addre: "广东省梅州市江南嘉应东路49号之五（即步步高工行斜对面）",
+    perso: "",
+    telep: "",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省梅州市宪新大道",
-    perso: "曾小姐",
-    telep: "0753-2591759",
+    addre: "广东省梅州市江南梅新路5-8号店（即入市委路口同仁堂斜对面）",
+    perso: "",
+    telep: "",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省梅州市江北中山路",
-    perso: "黄小姐",
-    telep: "0753-2232638",
+    addre: "广东省梅州市嘉应西路（即嘉得利7天酒店入口梅县公证处旁）",
+    perso: "",
+    telep: "",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省梅州市中山街60号（即中山街中段）",
+    perso: "",
+    telep: "",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省梅州市宪梓北路16号（即丽群小学斜对面）",
+    perso: "",
+    telep: "",
+  },
+  {
+    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
+    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    addre: "广东省梅州市宪梓北路29-11(即广发银行正门侧)",
+    perso: "",
+    telep: "",
   },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：广东省梅州市江南梅新路3-5号店
+  江南直销专卖店  江南嘉应东路49号之五（即步步高工行斜对面）
   
-  联系人：詹先生
+  江南直销专卖店  江南梅新路5-8号店（即入市委路口同仁堂斜对面）
   
-  联系电话：0753-2248204
+  西桥头直销专卖店  嘉应西路（即嘉得利7天酒店入口梅县公证处旁）
+  
+  中山街直销专卖店  中山街60号（即中山街中段）
+  
+  华侨城直销专卖店  宪梓北路16号（即丽群小学斜对面）
+  
+  华侨城直销专卖店  宪梓北路29-11(即广发银行正门侧)
   
 
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省梅州市江南梅新路3-5号店
-  ###联系人：钟先生
-  ###联系电话：0753-2248204
+  ###地址：江南嘉应东路49号之五（即步步高工行斜对面）
+  ###联系人：
+  ###联系电话：
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 116.119851, 24.300359 # auto-updated
 
 # 百度地图框内地址
-addr: 地址：广东省梅州市江南梅新路5-8号店（即宝商大厦斜对面）
+addr: 地址：江南嘉应东路49号之五（即步步高工行斜对面）
 
 # 右上角电话
 telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
