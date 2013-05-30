@@ -60,6 +60,7 @@ photos: [
     addre: "广东省梅州市江南嘉应东路49号之五（即步步高工行斜对面）",
     perso: "",
     telep: "",
+    store: "江南直销专卖店",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
@@ -67,6 +68,7 @@ photos: [
     addre: "广东省梅州市江南梅新路5-8号店（即入市委路口同仁堂斜对面）",
     perso: "",
     telep: "",
+    store: "江南直销专卖店",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
@@ -74,6 +76,7 @@ photos: [
     addre: "广东省梅州市嘉应西路（即嘉得利7天酒店入口梅县公证处旁）",
     perso: "",
     telep: "",
+    store: "西桥头直销专卖店",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
@@ -81,6 +84,7 @@ photos: [
     addre: "广东省梅州市中山街60号（即中山街中段）",
     perso: "",
     telep: "",
+    store: "中山街直销专卖店",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
@@ -88,6 +92,7 @@ photos: [
     addre: "广东省梅州市宪梓北路16号（即丽群小学斜对面）",
     perso: "",
     telep: "",
+    store: "华侨城直销专卖店",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
@@ -95,6 +100,7 @@ photos: [
     addre: "广东省梅州市宪梓北路29-11(即广发银行正门侧)",
     perso: "",
     telep: "",
+    store: "华侨城直销专卖店",
   },
 ]
 
