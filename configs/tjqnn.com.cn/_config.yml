@@ -52,79 +52,18 @@ service: |
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
 
-# 专卖店风采（大括号包围的块代表一个项目）
-photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "天津河北区狮子林大街（河北区政府对面）",
-    perso: "",
-    telep: "022-24462510",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "天津和平区和平路新中国商厦3楼",
-    perso: "翟先生",
-    telep: "022-27115769",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "天津南开区卫津路168号",
-    perso: "李经理",
-    telep: "022-13920496658",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "天津河西区黑牛城道谊城公寓8号",
-    perso: "郭先生",
-    telep: "022-28134089",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "天津河东区津塘公路与十四经路交口",
-    perso: "李经理",
-    telep: "022-13920496658",
-  },
-   {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "天津塘沽区塘沽营口道88号",
-    perso: "李经理",
-    telep: "022-13920496658",
-  },
-   {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "天津塘沽区塘沽金街",
-    perso: "李经理",
-    telep: "022-13920496658",
-  },
-   {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "天津武清区武清汽车总站旁",
-    perso: "李经理",
-    telep: "022-13920496658",
-  },
-   {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "天津西青区卫津南路88号",
-    perso: "李经理",
-    telep: "022-13920496658",
-  },
-   {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "天津大港区大港油田3号院",
-    perso: "李经理",
-    telep: "022-13920496658",
-  },
-]
+
+# 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
+photos:
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：", telep: "022-24462510" }, { thumb: "http://test.html9.com/templets/default/images/ex.jpg", photo: "http://test.html9.com/templets/default/images/ex.jpg", addre: "天津和平区和平路新中国商厦3楼", perso: "翟先生", telep: "022-27115769" }, { thumb: "http://test.html9.com/templets/default/images/ex.jpg", photo: "http://test.html9.com/templets/default/images/ex.jpg", addre: "天津南开区卫津路168号", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/templets/default/images/ex.jpg", photo: "http://test.html9.com/templets/default/images/ex.jpg", addre: "天津河西区黑牛城道谊城公寓8号", perso: "郭先生", telep: "022-28134089" }, { thumb: "http://test.html9.com/templets/default/images/ex.jpg", photo: "http://test.html9.com/templets/default/images/ex.jpg", addre: "天津河东区津塘公路与十四经路交口", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/templets/default/images/ex.jpg", photo: "http://test.html9.com/templets/default/images/ex.jpg", addre: "天津塘沽区塘沽营口道88号", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/templets/default/images/ex.jpg", photo: "http://test.html9.com/templets/default/images/ex.jpg", addre: "天津塘沽区塘沽金街", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/templets/default/images/ex.jpg", photo: "http://test.html9.com/templets/default/images/ex.jpg", addre: "天津武清区武清汽车总站旁", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/templets/default/images/ex.jpg", photo: "http://test.html9.com/templets/default/images/ex.jpg", addre: "天津西青区卫津南路88号", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/templets/default/images/ex.jpg", photo: "http://test.html9.com/templets/default/images/ex.jpg", addre: "天津大港区大港油田3号院", perso: "李经理", telep: "022-13920496658
+
+      **电话**：
+
+      **地址**：天津河北区狮子林大街（河北区政府对面）
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |

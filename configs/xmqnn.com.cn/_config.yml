@@ -52,16 +52,18 @@ service: |
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
 
-# 专卖店风采（大括号包围的块代表一个项目）
-photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "福建省厦门市漳州集美区杏林杏前路内茂立交内茂公交站旁",
-    perso: "高剑廷",
-    telep: "0592-13960165052",
-  },
-]
+
+# 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
+photos:
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：高剑廷
+
+      **电话**：0592-13960165052
+
+      **地址**：福建省厦门市漳州集美区杏林杏前路内茂立交内茂公交站旁
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |

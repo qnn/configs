@@ -52,51 +52,63 @@ service: |
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
 
-# 专卖店风采（大括号包围的块代表一个项目）
-photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "云南省昆明市盘龙区环城东路36号昆明理工大学新迎校区科技1号楼1楼铺面",
-    perso: "刘先生/任小姐",
-    telep: "871-3839473",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "云南省昆明市五华区西昌路698号",
-    perso: "刘先生/任小姐",
-    telep: "871-5420968",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "云南省昆明市官渡区二环东路583号金马立交桥下",
-    perso: "刘先生",
-    telep: "871-13987163238",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "玉溪市红塔区玉兴路43-5号",
-    perso: "李先生",
-    telep: "877-13988406068",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "楚雄市鹿城镇鹿城北路53号",
-    perso: "余先生",
-    telep: "878-3133901",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "瑞丽市人民路14号",
-    perso: "陈先生",
-    telep: "692-4123234",
-  },
-]
+
+# 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
+photos:
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：刘先生/任小姐
+
+      **电话**：871-3839473
+
+      **地址**：云南省昆明市盘龙区环城东路36号昆明理工大学新迎校区科技1号楼1楼铺面
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：刘先生/任小姐
+
+      **电话**：871-5420968
+
+      **地址**：云南省昆明市五华区西昌路698号
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：刘先生
+
+      **电话**：871-13987163238
+
+      **地址**：云南省昆明市官渡区二环东路583号金马立交桥下
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：李先生
+
+      **电话**：877-13988406068
+
+      **地址**：玉溪市红塔区玉兴路43-5号
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：余先生
+
+      **电话**：878-3133901
+
+      **地址**：楚雄市鹿城镇鹿城北路53号
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：陈先生
+
+      **电话**：692-4123234
+
+      **地址**：瑞丽市人民路14号
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |

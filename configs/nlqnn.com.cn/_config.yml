@@ -52,23 +52,27 @@ service: |
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
 
-# 专卖店风采（大括号包围的块代表一个项目）
-photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广西省南宁市衡阳西路29-5号（三十六中斜对面）",
-    perso: "李兵",
-    telep: "0771-2201789",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广西省北海市北部湾东路40号（湖南路交汇处中国银行旁）",
-    perso: "李兵",
-    telep: "0779-2078393",
-  },
-]
+
+# 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
+photos:
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：李兵
+
+      **电话**：0771-2201789
+
+      **地址**：广西省南宁市衡阳西路29-5号（三十六中斜对面）
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：李兵
+
+      **电话**：0779-2078393
+
+      **地址**：广西省北海市北部湾东路40号（湖南路交汇处中国银行旁）
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |

@@ -52,23 +52,27 @@ service: |
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
 
-# 专卖店风采（大括号包围的块代表一个项目）
-photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "福建福州仓山区金祥路金山公交总站正对面",
-    perso: "陈文波",
-    telep: "0591-13705024101",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "福建福州台江区八一七路与国货路交叉路口（红绿灯处）",
-    perso: "陈文波",
-    telep: "0591-13705024101",
-  },
-]
+
+# 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
+photos:
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：陈文波
+
+      **电话**：0591-13705024101
+
+      **地址**：福建福州仓山区金祥路金山公交总站正对面
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：陈文波
+
+      **电话**：0591-13705024101
+
+      **地址**：福建福州台江区八一七路与国货路交叉路口（红绿灯处）
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |

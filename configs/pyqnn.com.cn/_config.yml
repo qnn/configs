@@ -52,37 +52,45 @@ service: |
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
 
-# 专卖店风采（大括号包围的块代表一个项目）
-photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省广州市番禺市桥禺山大道247号",
-    perso: "曾小姐",
-    telep: "020-34812833",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省广州市番禺区市桥环城中路72号",
-    perso: "梁小姐",
-    telep: "020-39044876",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省广州市番禺区市桥富华中路19号",
-    perso: "刘小姐",
-    telep: "020-84807066",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省广州市番禺区洛浦街上教村105国道（即丽江花园对面）",
-    perso: "杨小姐",
-    telep: "020-39173376",
-  },
-]
+
+# 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
+photos:
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：曾小姐
+
+      **电话**：020-34812833
+
+      **地址**：广东省广州市番禺市桥禺山大道247号
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：梁小姐
+
+      **电话**：020-39044876
+
+      **地址**：广东省广州市番禺区市桥环城中路72号
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：刘小姐
+
+      **电话**：020-84807066
+
+      **地址**：广东省广州市番禺区市桥富华中路19号
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：杨小姐
+
+      **电话**：020-39173376
+
+      **地址**：广东省广州市番禺区洛浦街上教村105国道（即丽江花园对面）
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |

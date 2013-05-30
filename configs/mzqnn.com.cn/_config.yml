@@ -52,45 +52,75 @@ service: |
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
 
-# 专卖店风采（大括号包围的块代表一个项目）
-photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省梅州市江南嘉应东路49号之五（即步步高工行斜对面）",
-    store: "江南直销专卖店",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省梅州市江南梅新路5-8号店（即入市委路口同仁堂斜对面）",
-    store: "江南直销专卖店",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省梅州市嘉应西路（即嘉得利7天酒店入口梅县公证处旁）",
-    store: "西桥头直销专卖店",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省梅州市中山街60号（即中山街中段）",
-    store: "中山街直销专卖店",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省梅州市宪梓北路16号（即丽群小学斜对面）",
-    store: "华侨城直销专卖店",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省梅州市宪梓北路29-11(即广发银行正门侧)",
-    store: "华侨城直销专卖店",
-  },
-]
+
+# 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
+photos:
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **销售网点**：江南直销专卖店
+
+      **联系人**：
+
+      **电话**：
+
+      **地址**：广东省梅州市江南嘉应东路49号之五（即步步高工行斜对面）
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **销售网点**：江南直销专卖店
+
+      **联系人**：
+
+      **电话**：
+
+      **地址**：广东省梅州市江南梅新路5-8号店（即入市委路口同仁堂斜对面）
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **销售网点**：西桥头直销专卖店
+
+      **联系人**：
+
+      **电话**：
+
+      **地址**：广东省梅州市嘉应西路（即嘉得利7天酒店入口梅县公证处旁）
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **销售网点**：中山街直销专卖店
+
+      **联系人**：
+
+      **电话**：
+
+      **地址**：广东省梅州市中山街60号（即中山街中段）
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **销售网点**：华侨城直销专卖店
+
+      **联系人**：
+
+      **电话**：
+
+      **地址**：广东省梅州市宪梓北路16号（即丽群小学斜对面）
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **销售网点**：华侨城直销专卖店
+
+      **联系人**：
+
+      **电话**：
+
+      **地址**：广东省梅州市宪梓北路29-11(即广发银行正门侧)
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |

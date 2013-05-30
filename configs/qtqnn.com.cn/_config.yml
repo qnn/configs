@@ -52,80 +52,99 @@ service: |
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
 
-# 专卖店风采（大括号包围的块代表一个项目）
-photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "上海省东新区龙东大道5385号龙东大厦首层",
-    perso: "徐先生",
-    telep: "021-58588280",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "上海省浦东新区妙境路872号（近川环南路路口）",
-    perso: "张小姐",
-    telep: "13918010042",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "上海省闸北区沪太路589号（近中北路）",
-    perso: "张先生",
-    telep: "13816776700",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "上海省浦东区沪南路近华夏西路红星美凯龙5层",
-    perso: "郭女士",
-    telep: "15800981123",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "上海省普陀区真北路近怒江北路红星美凯龙北馆二楼",
-    perso: "刘女士",
-    telep: "18202107240",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "上海省普陀区真北路近怒江北路红星美凯龙南馆负1楼",
-    perso: "胡女士",
-    telep: "13671770184",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "上海省宝山区汶水路近沪太路红星美凯龙一楼",
-    perso: "周女士",
-    telep: "13816052094",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "上海省闵行区吴中路近金汇南路剪刀石头布4楼",
-    perso: "牛女士",
-    telep: "18917904971",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "上海省嘉定区曹安路近定边路好美家商场一楼",
-    perso: "王女士",
-    telep: "18202107240",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "上海省徐汇区文定路近蒲汇塘路盛源大地商场二楼",
-    perso: "蒋女士",
-    telep: "18964103676",
-  },
-  
-]
+
+# 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
+photos:
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：徐先生
+
+      **电话**：021-58588280
+
+      **地址**：上海省东新区龙东大道5385号龙东大厦首层
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：张小姐
+
+      **电话**：13918010042
+
+      **地址**：上海省浦东新区妙境路872号（近川环南路路口）
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：张先生
+
+      **电话**：13816776700
+
+      **地址**：上海省闸北区沪太路589号（近中北路）
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：郭女士
+
+      **电话**：15800981123
+
+      **地址**：上海省浦东区沪南路近华夏西路红星美凯龙5层
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：刘女士
+
+      **电话**：18202107240
+
+      **地址**：上海省普陀区真北路近怒江北路红星美凯龙北馆二楼
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：胡女士
+
+      **电话**：13671770184
+
+      **地址**：上海省普陀区真北路近怒江北路红星美凯龙南馆负1楼
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：周女士
+
+      **电话**：13816052094
+
+      **地址**：上海省宝山区汶水路近沪太路红星美凯龙一楼
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：牛女士
+
+      **电话**：18917904971
+
+      **地址**：上海省闵行区吴中路近金汇南路剪刀石头布4楼
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：王女士
+
+      **电话**：18202107240
+
+      **地址**：上海省嘉定区曹安路近定边路好美家商场一楼
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：蒋女士
+
+      **电话**：18964103676
+
+      **地址**：上海省徐汇区文定路近蒲汇塘路盛源大地商场二楼
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |

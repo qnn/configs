@@ -52,44 +52,54 @@ service: |
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
 
-# 专卖店风采（大括号包围的块代表一个项目）
-photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东汕头市潮南区陈店镇湖西广汕公路龙海楼",
-    perso: "林小姐",
-    telep: "0754-84485840",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省汕头惠来惠城南门大街金盆腔大厦三楼",
-    perso: "黄先生",
-    telep: "0663-6651222",
-  },
-   {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省汕头潮南区两英华英东路",
-    perso: "许小姐",
-    telep: "0754-85573456",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省汕头金平区东厦南路67号",
-    perso: "杨先生",
-    telep: "0754-88241240",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "广东省汕头市潮阳区贵屿草南路华美路段226-228-234号",
-    perso: "林先生",
-    telep: "0754-84440128",
-  },
-]
+
+# 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
+photos:
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：林小姐
+
+      **电话**：0754-84485840
+
+      **地址**：广东汕头市潮南区陈店镇湖西广汕公路龙海楼
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：黄先生
+
+      **电话**：0663-6651222
+
+      **地址**：广东省汕头惠来惠城南门大街金盆腔大厦三楼
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：许小姐
+
+      **电话**：0754-85573456
+
+      **地址**：广东省汕头潮南区两英华英东路
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：杨先生
+
+      **电话**：0754-88241240
+
+      **地址**：广东省汕头金平区东厦南路67号
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：林先生
+
+      **电话**：0754-84440128
+
+      **地址**：广东省汕头市潮阳区贵屿草南路华美路段226-228-234号
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |

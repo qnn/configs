@@ -52,51 +52,63 @@ service: |
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
 
-# 专卖店风采（大括号包围的块代表一个项目）
-photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "江西省南昌市红谷滩国际金融中心未来谷3C广场二楼B168",
-    perso: "王先生",
-    telep: "0791-2182144",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "江西省吉安市永丰县肖家大楼",
-    perso: "李先生",
-    telep: "0796-13707962179",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "江西省莲花县金色城大道（振翔超市旁）全能保险柜莲花专卖店",
-    perso: "贺先生",
-    telep: "0791-15979261870",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "江西省赣州市厚德路76-20号",
-    perso: "连先生",
-    telep: "0797-8287775",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "江西省新余市劳动北路483号【沙新路口金亚洲宾馆正对面",
-    perso: "吴小姐",
-    telep: "0790-7059846",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "江西省宜春市宜春北路59号",
-    perso: "李先生",
-    telep: "0795-3222299",
-  },
-]
+
+# 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
+photos:
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：王先生
+
+      **电话**：0791-2182144
+
+      **地址**：江西省南昌市红谷滩国际金融中心未来谷3C广场二楼B168
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：李先生
+
+      **电话**：0796-13707962179
+
+      **地址**：江西省吉安市永丰县肖家大楼
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：贺先生
+
+      **电话**：0791-15979261870
+
+      **地址**：江西省莲花县金色城大道（振翔超市旁）全能保险柜莲花专卖店
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：连先生
+
+      **电话**：0797-8287775
+
+      **地址**：江西省赣州市厚德路76-20号
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：吴小姐
+
+      **电话**：0790-7059846
+
+      **地址**：江西省新余市劳动北路483号【沙新路口金亚洲宾馆正对面
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **联系人**：李先生
+
+      **电话**：0795-3222299
+
+      **地址**：江西省宜春市宜春北路59号
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |

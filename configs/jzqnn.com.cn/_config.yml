@@ -52,41 +52,53 @@ service: |
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
   <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1964506925&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1964506925:41" alt="产品请咨询我" title="产品请咨询我"></a>
 
-# 专卖店风采（大括号包围的块代表一个项目）
-photos: [
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "湖北省荆州市北京西路文湖公园十字路",
-    perso: "周丽",
-    telep: "0716-8260199",
-    store: "荆州市全能旗舰店",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "湖北省荆州市县通运车站出站口对门",
-    perso: "周丽",
-    telep: "0716-5151898",
-    store: "公安县全能旗舰店",
-  },
-  {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "湖北省石首市中山路183#科技馆旁",
-    perso: "陈涛",
-    telep: "0716-7280258",
-    store: "石首市全能旗舰店",
-  },
-   {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
-    addre: "湖北省松滋市新江口大桥市标转盘处",
-    perso: "胡新财",
-    telep: "0716-6267158",
-    store: "松滋市全能旗舰店",
-  },
-]
+
+# 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
+photos:
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **销售网点**：荆州市全能旗舰店
+
+      **联系人**：周丽
+
+      **电话**：0716-8260199
+
+      **地址**：湖北省荆州市北京西路文湖公园十字路
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **销售网点**：公安县全能旗舰店
+
+      **联系人**：周丽
+
+      **电话**：0716-5151898
+
+      **地址**：湖北省荆州市县通运车站出站口对门
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **销售网点**：石首市全能旗舰店
+
+      **联系人**：陈涛
+
+      **电话**：0716-7280258
+
+      **地址**：湖北省石首市中山路183#科技馆旁
+
+  - thumb: http://test.html9.com/templets/default/images/ex.jpg
+    photo: http://test.html9.com/templets/default/images/ex.jpg
+    content: |
+      **销售网点**：松滋市全能旗舰店
+
+      **联系人**：胡新财
+
+      **电话**：0716-6267158
+
+      **地址**：湖北省松滋市新江口大桥市标转盘处
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
