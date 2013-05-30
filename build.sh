@@ -10,7 +10,8 @@ SOURCE="$(pwd)/source"
 GIT=$(which git)
 
 echo "Updating $CURRENT ..."
-cd "$CURRENT" && $GIT pull origin master
+cd "$CURRENT" && $GIT fetch --all
+cd "$CURRENT" && $GIT reset --hard origin/master
 
 if [[ ! -d "$SOURCE" ]]; then
 	mkdir "$SOURCE"
@@ -20,7 +21,8 @@ echo "Updating $SOURCE ..."
 if [[ ! -d "$SOURCE/.git" ]]; then
 	$GIT clone git://github.com/qnn/template.git "$SOURCE"
 else
-	cd "$SOURCE" && $GIT pull origin master
+	cd "$SOURCE" && $GIT fetch --all
+	cd "$SOURCE" && $GIT reset --hard origin/master
 fi
 
 JEKYLL=$(which jekyll)
