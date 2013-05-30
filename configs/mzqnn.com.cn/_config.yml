@@ -58,65 +58,53 @@ photos: [
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省梅州市江南嘉应东路49号之五（即步步高工行斜对面）",
-    perso: "",
-    telep: "",
-    store: "**江南直销专卖店**",
+    store: "江南直销专卖店",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省梅州市江南梅新路5-8号店（即入市委路口同仁堂斜对面）",
-    perso: "",
-    telep: "",
-    store: "**江南直销专卖店**",
+    store: "江南直销专卖店",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省梅州市嘉应西路（即嘉得利7天酒店入口梅县公证处旁）",
-    perso: "",
-    telep: "",
-    store: "**西桥头直销专卖店**",
+    store: "西桥头直销专卖店",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省梅州市中山街60号（即中山街中段）",
-    perso: "",
-    telep: "",
-    store: "**中山街直销专卖店**",
+    store: "中山街直销专卖店",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省梅州市宪梓北路16号（即丽群小学斜对面）",
-    perso: "",
-    telep: "",
-    store: "**华侨城直销专卖店**",
+    store: "华侨城直销专卖店",
   },
   {
     thumb: "http://test.html9.com/templets/default/images/ex.jpg",
     photo: "http://test.html9.com/templets/default/images/ex.jpg",
     addre: "广东省梅州市宪梓北路29-11(即广发银行正门侧)",
-    perso: "",
-    telep: "",
-    store: "**华侨城直销专卖店**",
+    store: "华侨城直销专卖店",
   },
 ]
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  **江南直销专卖店**&nbsp;&nbsp;&nbsp;&nbsp;江南嘉应东路49号之五（即步步高工行斜对面）
+  **江南直销专卖店**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;江南嘉应东路49号之五（即步步高工行斜对面）
   
-  **江南直销专卖店**&nbsp;&nbsp;&nbsp;&nbsp;江南梅新路5-8号店（即入市委路口同仁堂斜对面）
+  **江南直销专卖店**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;江南梅新路5-8号店（即入市委路口同仁堂斜对面）
   
-  **西桥头直销专卖店**&nbsp;&nbsp;嘉应西路（即嘉得利7天酒店入口梅县公证处旁）
+  **西桥头直销专卖店**&nbsp;&nbsp;&nbsp;&nbsp;嘉应西路（即嘉得利7天酒店入口梅县公证处旁）
   
-  **中山街直销专卖店**&nbsp;&nbsp;中山街60号（即中山街中段）
+  **中山街直销专卖店**&nbsp;&nbsp;&nbsp;&nbsp;中山街60号（即中山街中段）
   
-  **华侨城直销专卖店**&nbsp;&nbsp;宪梓北路16号（即丽群小学斜对面）
+  **华侨城直销专卖店**&nbsp;&nbsp;&nbsp;&nbsp;宪梓北路16号（即丽群小学斜对面）
   
-  **华侨城直销专卖店**&nbsp;&nbsp;宪梓北路29-11(即广发银行正门侧)
+  **华侨城直销专卖店**&nbsp;&nbsp;&nbsp;&nbsp;宪梓北路29-11(即广发银行正门侧)
   
 
 
