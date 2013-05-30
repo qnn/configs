@@ -22,29 +22,21 @@ keywords: 常州保险柜
 # 版权，请改备案号
 copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备09217978号-54</a>
 
-# 首页轮播大图（大括号包围的块代表一个项目）
-# _layout_alpha: 998 x 514px
-# _layout_beta: 998 x 350px
-# _layout_gamma: 998 x 350px
-# _layout_delta: 720 x 288px
-slider: [
-  {
-    image: "http://test.html9.com/images/alpha-banner01.jpg",
-    link: "/b-7348.html",
-  },
-  {
-    image: "http://test.html9.com/images/alpha-banner02.jpg",
-    link: "/f-2714cke.html",
-  },
-  {
-    image: "http://test.html9.com/images/alpha-banner03.jpg",
-    link: "/asafe.html",
-  },
-  {
-    image: "http://test.html9.com/images/alpha-banner04.jpg",
-    link: "/fg-5840br.html",
-  },
-]
+
+# 首页轮播大图（ - 表示数组项目）
+slider:
+  - image: http://test.html9.com/images/alpha-banner01.jpg
+    link:  /b-7348.html
+
+  - image: http://test.html9.com/images/alpha-banner02.jpg
+    link:  /f-2714cke.html
+
+  - image: http://test.html9.com/images/alpha-banner03.jpg
+    link:  /asafe.html
+
+  - image: http://test.html9.com/images/alpha-banner04.jpg
+    link:  /fg-5840br.html
+
 
 # 侧栏服务，请改QQ号码（每行代码前加入两个空格）
 service: |
