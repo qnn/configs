@@ -39,9 +39,15 @@ if (isset($_POST['payload'])) {
 		$buffer = '['.date('Y-m-d H:i:s O').'] Start '.$hbar."\n\n";
 		file_put_contents($file_name, $buffer."\n\n\n".$old_content);
 		
-		array_unshift($commands, 'cd '.$base.'/source && '.$git.' pull origin master 2>&1');
-		array_unshift($commands, $git.' pull origin master 2>&1');
-		array_unshift($commands, $jekyll.' --version 2>&1');
+		$before = array(
+			$jekyll.' --version 2>&1',
+			'cd '.$base.' && '.$git.' fetch --all 2>&1',
+			'cd '.$base.' && '.$git.' reset --hard origin/master 2>&1',
+			'cd '.$base.'/source && '.$git.' fetch --all 2>&1',
+			'cd '.$base.'/source && '.$git.' reset --hard origin/master 2>&1',
+		);
+		
+		$commands = array_merge($before, $commands);
 		
 		foreach ($commands as $command) {
 			$buffer .= '['.date('Y-m-d H:i:s O').'] $ '.$command."\n";
