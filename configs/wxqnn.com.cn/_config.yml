@@ -51,8 +51,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：杨先生
 
@@ -60,8 +60,8 @@ photos:
 
       **地址**：江苏无锡崇安区锡沪中路紫金门花苑120号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：顾小姐
 
@@ -69,8 +69,8 @@ photos:
 
       **地址**：江苏无锡崇安区解放东路1000号3F
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：杨先生
 
@@ -78,8 +78,8 @@ photos:
 
       **地址**：江苏无锡江阴市环城北路161号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：杨先生
 

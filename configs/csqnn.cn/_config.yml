@@ -51,8 +51,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：曾先生
 
@@ -60,8 +60,8 @@ photos:
 
       **地址**：湖南长沙市高桥火焰文体城一区一栋5号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：欧阳先生
 
@@ -69,8 +69,8 @@ photos:
 
       **地址**：湖南岳阳市巴陵中路428-430号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：伍先生
 
@@ -78,8 +78,8 @@ photos:
 
       **地址**：湖南耒阳市城北路
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：欧阳先生
 
@@ -87,8 +87,8 @@ photos:
 
       **地址**：湖南湘潭市韶山西路22号（霖园天桥旁）号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：刘先生
 
@@ -96,8 +96,8 @@ photos:
 
       **地址**：湖南益阳市桃花仓西路1078-1080号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：罗先生
 
@@ -105,8 +105,8 @@ photos:
 
       **地址**：湖南邵东县兴和大道60-62号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：廖先生
 
@@ -114,8 +114,8 @@ photos:
 
       **地址**：湖南郴州市苏仙区苏园路2号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：陈小姐
 

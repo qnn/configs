@@ -55,16 +55,16 @@ service: |
 # 专卖店风采（大括号包围的块代表一个项目）
 photos: [
   {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    thumb: "http://test.html9.com/images/qnnsafe01.jpg",
+    photo: "http://test.html9.com/images/qnnsafe01.jpg",
     addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
     perso: "X先生",
     telep: "0757-12345678",
     store: "XXX专卖店1",
   },
   {
-    thumb: "http://test.html9.com/templets/default/images/ex.jpg",
-    photo: "http://test.html9.com/templets/default/images/ex.jpg",
+    thumb: "http://test.html9.com/images/qnnsafe01.jpg",
+    photo: "http://test.html9.com/images/qnnsafe01.jpg",
     addre: "广东省佛山市顺德大良街道凤翔工业区德翔路8号",
     perso: "X先生",
     telep: "0757-12345678",

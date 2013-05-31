@@ -51,8 +51,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：刘先生/任小姐
 
@@ -60,8 +60,8 @@ photos:
 
       **地址**：云南省昆明市盘龙区环城东路36号昆明理工大学新迎校区科技1号楼1楼铺面
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：刘先生/任小姐
 
@@ -69,8 +69,8 @@ photos:
 
       **地址**：云南省昆明市五华区西昌路698号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：刘先生
 
@@ -78,8 +78,8 @@ photos:
 
       **地址**：云南省昆明市官渡区二环东路583号金马立交桥下
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：李先生
 
@@ -87,8 +87,8 @@ photos:
 
       **地址**：玉溪市红塔区玉兴路43-5号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：余先生
 
@@ -96,8 +96,8 @@ photos:
 
       **地址**：楚雄市鹿城镇鹿城北路53号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：陈先生
 

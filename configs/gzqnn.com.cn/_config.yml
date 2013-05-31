@@ -51,8 +51,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：王小姐
 
@@ -60,8 +60,8 @@ photos:
 
       **地址**：广东省广州市海珠区赤岗西路328号全能保险柜
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：李小姐
 
@@ -69,8 +69,8 @@ photos:
 
       **地址**：广东省广州市海珠区江南大道南411号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：冯小姐
 
@@ -78,8 +78,8 @@ photos:
 
       **地址**：广东省广州市黄埔区黄埔东路47-49号
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：李小姐
 
@@ -87,8 +87,8 @@ photos:
 
       **地址**：广东省广州市天河区正佳广场三楼友谊商场
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：王小姐/胡小姐
 

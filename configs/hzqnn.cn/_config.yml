@@ -51,8 +51,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：蔡先生
 
@@ -60,8 +60,8 @@ photos:
 
       **地址**：广东省惠州市惠城区麦地南路大富贵宾馆一楼
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：蔡先生
 
@@ -69,8 +69,8 @@ photos:
 
       **地址**：惠州市惠城区红花湖路1号（国防加油站斜对面）
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：孙小姐
 
@@ -78,8 +78,8 @@ photos:
 
       **地址**：广东省惠州市惠城区演达大道泰安居四楼
 
-  - thumb: http://test.html9.com/templets/default/images/ex.jpg
-    photo: http://test.html9.com/templets/default/images/ex.jpg
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
       **联系人**：蔡先生
 
