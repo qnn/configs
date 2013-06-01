@@ -53,6 +53,7 @@ service: |
   <p>客户咨询时间：早上8:00到下午17:30</p>
   <a class="enterprise_qq" href="#">客户咨询</a>
   <a class="enterprise_qq" href="#">客户咨询</a>
+  <a class="enterprise_qq" href="#">客户咨询</a>
 
 # 专卖店风采（大括号包围的块代表一个项目）
 photos: [
