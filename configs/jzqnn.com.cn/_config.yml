@@ -42,11 +42,13 @@ slider:
     link:  /fg-5840br.html
 
 
-# 侧栏服务，请改QQ号码（每行代码前加入两个空格）
+# 侧栏服务，格式如下：
+# 企业QQ：<a class="enterprise_qq" href="#">客户咨询</a>
+# 个人QQ：<a class="individual_qq" data-qq="这里填写QQ号码" href="#">客户咨询</a>
 service: |
   <p>客户咨询时间：早上8:00到下午17:30</p>
-  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=519099098&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:519099098:41" alt="产品请咨询我" title="产品请咨询我"></a>
-  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=594745963&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:594745963:41" alt="产品请咨询我" title="产品请咨询我"></a>
+  <a class="individual_qq" data-qq="519099098" href="#">客户咨询</a>
+  <a class="individual_qq" data-qq="594745963" href="#">客户咨询</a>
 
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）

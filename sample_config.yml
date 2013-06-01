@@ -46,11 +46,13 @@ slider: [
   },
 ]
 
-# 侧栏服务，请改QQ号码（每行代码前加入两个空格）
+# 侧栏服务，格式如下：
+# 企业QQ：<a class="enterprise_qq" href="#">客户咨询</a>
+# 个人QQ：<a class="individual_qq" data-qq="这里填写QQ号码" href="#">客户咨询</a>
 service: |
   <p>客户咨询时间：早上8:00到下午17:30</p>
-  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=4008304555&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:4008304555:41" alt="产品请咨询我" title="产品请咨询我"></a>
-  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=4008304555&amp;site=qq&amp;menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:4008304555:41" alt="产品请咨询我" title="产品请咨询我"></a>
+  <a class="enterprise_qq" href="#">客户咨询</a>
+  <a class="enterprise_qq" href="#">客户咨询</a>
 
 # 专卖店风采（大括号包围的块代表一个项目）
 photos: [
