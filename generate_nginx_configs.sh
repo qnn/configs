@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright (c) 2013, Cai Guanhao (Choi Goon-ho)
+# All rights reserved.
 
 if [[ ${#@} -eq 0 ]]; then
     SITELIST=(
