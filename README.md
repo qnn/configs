@@ -2,6 +2,9 @@
 
 This repo contains Jekyll config files of each QNN agent website (more than 80 websites) and several shell script files.
 
+Default configurations and template source code:  
+[Templates](https://github.com/qnn/template)
+
 ### 自动更新
 
 **通过 GitHub 网页直接修改任何 ``_config.yml`` 配置文件会触发服务器自动更新对应网站（所以请小心填写配置文件）**
