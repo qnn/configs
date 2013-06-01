@@ -11,6 +11,11 @@ SOURCE="$(pwd)/source"
 
 GIT=$(which git)
 
+if [[ ${#GIT} -eq 0 ]]; then
+    echo "Install git first."
+    exit 1
+fi
+
 echo "Updating $CURRENT ..."
 cd "$CURRENT" && $GIT fetch --all
 cd "$CURRENT" && $GIT reset --hard origin/master
@@ -28,6 +33,11 @@ else
 fi
 
 JEKYLL=$(which jekyll)
+
+if [[ ${#JEKYLL} -eq 0 ]]; then
+    echo "Install jekyll first."
+    exit 1
+fi
 
 if [[ ! -d $CONFIGS ]]; then
     echo "$CONFIGS: No such directory."
