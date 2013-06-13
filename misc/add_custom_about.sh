@@ -39,5 +39,4 @@ do
     rm -f "$CONFIG.bak"
     printf "\e[1A"
     PRINT "${CONFIG}" "DONE"
-    exit
 done
