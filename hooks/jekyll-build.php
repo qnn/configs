@@ -1,4 +1,8 @@
 <?php
+putenv("LANGUAGE=en_US.UTF-8");
+putenv("LANG=en_US.UTF-8");
+putenv("LC_ALL=en_US.UTF-8");
+
 $jekyll = '/usr/local/bin/jekyll';
 
 $git = '/usr/bin/git';
@@ -22,7 +26,7 @@ if (isset($_POST['payload'])) {
 	
 	foreach ($all as $A) {
 		if (preg_match('#^configs/(.*)/_config\.yml$#', $A, $matches)) {
-			array_push($commands, $jekyll.' build --source "'.$base.'/source" --destination "'.$base.'/sites/'.$matches[1].'" --config "'.$base.'/source/_config.yml","'.$base.'/configs/'.$matches[1].'/_config.yml" 2>&1');
+			array_push($commands, $jekyll.' build --trace --source "'.$base.'/source" --destination "'.$base.'/sites/'.$matches[1].'" --config "'.$base.'/source/_config.yml","'.$base.'/configs/'.$matches[1].'/_config.yml" 2>&1');
 		}
 	}
 	
