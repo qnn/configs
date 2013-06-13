@@ -14,7 +14,7 @@ Default configurations and template source code:
 更新过程需要大概20秒，在这段时间内，请不要继续提交同一个文件的更改，以免出错。你可以监视即时生成的日志：
 
 * <http://223.4.217.160:100/jekyll-build-log.txt>
-* <http://106.187.103.138:100/jekyll-build-log.txt>
+* <http://106.187.95.46:100/jekyll-build-log.txt>
 
 ### Build
 
