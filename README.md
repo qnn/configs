@@ -54,6 +54,10 @@ Upgrade from old config photos and slider config fields to new ones.
     php misc/update_config_photos.php
     php misc/update_config_slider.php
 
+Insert homepage_about and about items to all config files.
+
+    bash add_custom_about.sh
+
 ### WebHook
 
 Make ``hooks/jekyll-build.php`` reachable only to GitHub by setting ``allow <GitHub WebHook IP>; deny all;`` and ``auth_basic`` directives.
