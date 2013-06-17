@@ -96,7 +96,7 @@ for WEBSITE in "${WEBSITES[@]}"; do
 
 server {
     server_name ${WEBSITE};
-    location / { rewrite ^ http://www.${WEBSITE}$request_uri? permanent; }
+    location / { rewrite ^ http://www.${WEBSITE}\$request_uri? permanent; }
 }
 server {
     server_name www.${WEBSITE};
