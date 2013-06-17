@@ -34,7 +34,7 @@ WEBSITES=($(cat $FILE))
 IFS=$OLD_IFS
 
 for (( i = 0; i < "${#WEBSITES[@]}"; i++ )); do
-  $CURL -m 10 -s -L -I -o /dev/null \
+  $CURL -m 10 -s -L -I -o /dev/null 2>/dev/null \
   -w "time = %{time_total}\tstatus = %{http_code}\tip = %{remote_ip}\thttp://www.${WEBSITES[$i]}/\n" \
   "http://www.${WEBSITES[$i]}" &
 done
