@@ -2,6 +2,8 @@
 # Copyright (c) 2013, Cai Guanhao (Choi Goon-ho)
 # All rights reserved.
 
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
 if [[ ${#@} -eq 0 ]]; then
     SITELIST=(
         $(find "`pwd`" -maxdepth 1 -type f -regex '.*TODO.*')
@@ -100,7 +102,7 @@ server {
 }
 server {
     server_name www.${WEBSITE};
-    root /srv/qnn-agent-sites/sites/${WEBSITE};
+    root ${DIR}/sites/${WEBSITE};
     index index.html;
 }
 
