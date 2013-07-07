@@ -5,22 +5,15 @@ This repo contains Jekyll config files of each QNN agent website (more than 80 w
 Default configurations and template source code:  
 [Templates](https://github.com/qnn/template)
 
-### 自动更新
-
-**通过 GitHub 网页直接修改任何 ``_config.yml`` 配置文件会触发服务器自动更新对应网站（所以请小心填写配置文件）**
-
-更改 ``configs`` 目录下任一 ``_config.yml`` 文件都会触发服务器马上自动更新该配置文件对应的网站，但仅限于最新的更改（``HEAD``）。所以，如果你一次过向 GitHub 提交多次更改，触发器也只会运行一次，如果不想触发更新，请确保提交的最新更改文件中不包含配置文件。任何非 ``_config.yml`` 文件的更改都不会触发更新。
-
-更新过程需要大概20秒，在这段时间内，请不要继续提交同一个文件的更改，以免出错。你可以监视即时生成的日志：
-
-* <http://223.4.217.160:100/jekyll-build-log.txt>
-* <http://106.187.95.46:100/jekyll-build-log.txt>
-
 ### Build
 
 Build Jekyll sites with source file from ``source`` directory and config file from ``configs`` directory. This script may update the main and the source repo before asking you which website list file to read and how many sites to build concurrently.
 
     bash build.sh [DIR1[ DIR2[ ...]]]
+
+To build all sites in WEBSITES:
+
+    bash build.sh --all
 
 ### Default configs for websites
 
@@ -63,10 +56,6 @@ Upgrade from old config photos and slider config fields to new ones.
 Insert homepage_about and about items to all config files.
 
     bash add_custom_about.sh
-
-### WebHook
-
-Make ``hooks/jekyll-build.php`` reachable only to GitHub by setting ``allow <GitHub WebHook IP>; deny all;`` and ``auth_basic`` directives.
 
 ### Flow Chart
 

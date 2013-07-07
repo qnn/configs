@@ -8,6 +8,7 @@ CURRENT="$(pwd)"
 CONFIGS="$(pwd)/configs"
 SITES="$(pwd)/sites"
 SOURCE="$(pwd)/source"
+CONCURRENT=0
 
 GIT=$(which git)
 
@@ -91,6 +92,12 @@ if [[ ${#@} -eq 0 ]]; then
             exit
         fi
     fi
+elif [[ ${#@} -eq 1 ]] && [[ $1 == "--all" ]]; then
+    OLD_IFS=$IFS
+    IFS=$'\n'
+    TODOS=($(cat "`pwd`/WEBSITES"))
+    IFS=$OLD_IFS
+    CONCURRENT=5
 else
     TODOS=($@)
 fi
@@ -129,7 +136,7 @@ trap handle_sigint SIGINT
 
 if [[ LENGTH -le 3 ]]; then
     CONCURRENT=LENGTH
-else
+elif [[ CONCURRENT -eq 0 ]]; then
     echo "How many sites to build concurrently? [default=3, max=10, min=1]"
     read CONCURRENT;
 
