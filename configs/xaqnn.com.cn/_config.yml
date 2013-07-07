@@ -66,8 +66,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://test.html9.com/images/stores01.jpg
+    photo: http://test.html9.com/images/stores01.jpg
     content: |
       **联系人**：王先生
 
@@ -75,8 +75,8 @@ photos:
 
       **地址**：陕西省西安市雁塔区朱雀大街南段伟丰花园西门向南50米
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://test.html9.com/images/stores02.jpg
+    photo: http://test.html9.com/images/stores03.jpg
     content: |
       **联系人**：王先生
 
@@ -84,8 +84,8 @@ photos:
 
       **地址**：陕西省西安市曲江新区芙蓉东路69号中海东郡西门向南50米路东
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://test.html9.com/images/stores03.jpg
+    photo: http://test.html9.com/images/stores03.jpg
     content: |
       **联系人**：王先生
 
