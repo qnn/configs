@@ -138,6 +138,5 @@ coord: 112.244432, 30.330196 # auto-updated
 addr: 地址：湖北省荆州市北京西路文湖公园十字路
 
 # 右上角电话
-telephone: |
-###   <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
-###   <a href="http://shop67870749.taobao.com/" target="_blank">淘宝店</a> 400-830-4555
+telephone: 
+  <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
