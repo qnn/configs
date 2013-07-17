@@ -69,33 +69,134 @@ photos:
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
-      **联系人**：", telep: "022-24462510" }, { thumb: "http://test.html9.com/images/qnnsafe01.jpg", photo: "http://test.html9.com/images/qnnsafe01.jpg", addre: "天津和平区和平路新中国商厦3楼", perso: "翟先生", telep: "022-27115769" }, { thumb: "http://test.html9.com/images/qnnsafe01.jpg", photo: "http://test.html9.com/images/qnnsafe01.jpg", addre: "天津南开区卫津路168号", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/images/qnnsafe01.jpg", photo: "http://test.html9.com/images/qnnsafe01.jpg", addre: "天津河西区黑牛城道谊城公寓8号", perso: "郭先生", telep: "022-28134089" }, { thumb: "http://test.html9.com/images/qnnsafe01.jpg", photo: "http://test.html9.com/images/qnnsafe01.jpg", addre: "天津河东区津塘公路与十四经路交口", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/images/qnnsafe01.jpg", photo: "http://test.html9.com/images/qnnsafe01.jpg", addre: "天津塘沽区塘沽营口道88号", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/images/qnnsafe01.jpg", photo: "http://test.html9.com/images/qnnsafe01.jpg", addre: "天津塘沽区塘沽金街", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/images/qnnsafe01.jpg", photo: "http://test.html9.com/images/qnnsafe01.jpg", addre: "天津武清区武清汽车总站旁", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/images/qnnsafe01.jpg", photo: "http://test.html9.com/images/qnnsafe01.jpg", addre: "天津西青区卫津南路88号", perso: "李经理", telep: "022-13920496658" }, { thumb: "http://test.html9.com/images/qnnsafe01.jpg", photo: "http://test.html9.com/images/qnnsafe01.jpg", addre: "天津大港区大港油田3号院", perso: "李经理", telep: "022-13920496658
+      **销售网点**：金海马家具世界
 
-      **电话**：
+      **联系人**：李经理
 
-      **地址**：天津河北区狮子林大街（河北区政府对面）
+      **电话**：13920496658
+
+      **地址**：天津河东区津塘公路与十四经路交口
+
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：塘沽大通文化用品
+
+      **联系人**：李经理
+
+      **电话**：13920496658
+
+      **地址**：天津塘沽区营口道88号
+      
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：金街现代办公
+
+      **联系人**：李经理
+
+      **电话**：13920496658
+
+      **地址**：天津塘沽区金街
+      
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：集美家居城
+
+      **联系人**：李经理
+
+      **电话**：13920496658
+
+      **地址**：天津西青区卫津南路88号
+
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：具多美家具城
+
+      **联系人**：李经理
+
+      **电话**：13920496658
+
+      **地址**：天津武清区汽车总站旁
+      
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：大港滨江购物
+
+      **联系人**：李经理
+
+      **电话**：13920496658
+
+      **地址**：天津大港区油田3号院
+      
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：金海马家具商城
+
+      **联系人**：李经理
+
+      **电话**：13920496658
+
+      **地址**：天津南开区卫津路168号
+      
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：天津市金海马家具总汇
+
+      **联系人**：
+
+      **电话**：022-24462510
+
+      **地址**：天津区狮子林大街（河北区政府对面）
+
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：新中国商厦
+
+      **联系人**：翟先生
+
+      **电话**：022-27115769
+
+      **地址**：天津区和平区和平路新中国商厦3楼
+
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：欧迈办公用品
+
+      **联系人**：郭先生
+
+      **电话**：022-28134089
+
+      **地址**：天津河西区黑牛城道谊城公寓8号
 
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：天津和平区和平路新中国商厦3楼
+  地址：天津河东区津塘公路与十四经路交口
   
-  联系人：翟先生
+  联系人：李经理
   
-  联系电话：022-27115769
+  联系电话：13920496658
   
  
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：天津和平区和平路新中国商厦3楼
-  ###联系人：翟先生
-  ###联系电话：022-27115769
+  ###地址：天津河东区津塘公路与十四经路交口
+  ###联系人：李经理
+  ###联系电话：13920496658
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 117.200016, 39.131930 # auto-updated
 
 # 百度地图框内地址
-addr: 地址：天津和平区和平路新中国商厦3楼
+addr: 地址：天津河东区津塘公路与十四经路交口
 
 # 右上角电话
 telephone: <a href="http://www.qnnsafe.com/" target="_blank">全能保险柜总部</a> 400-830-4555
