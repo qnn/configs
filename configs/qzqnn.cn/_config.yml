@@ -2,7 +2,7 @@
 
 # 模板、主题、版式
 # _layout_alpha , _layout_beta , _layout_gamma , _layout_delta
-layouts: _layout_alpha
+layouts: _layout_gamma
 
 # 网站 URL ，最后勿加入斜杠
 url: http://www.qzqnn.cn
