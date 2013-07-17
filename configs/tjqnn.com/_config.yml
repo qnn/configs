@@ -5,7 +5,7 @@
 layouts: _layout_alpha
 
 # 网站 URL ，最后勿加入斜杠
-url: http://www.tjqnn.com.cn
+url: http://www.tjqnn.com
 
 # 网站名称
 name: 天津办事处
@@ -20,7 +20,7 @@ description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜
 keywords: 天津保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备09217978号-25</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备12015444号-29</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
