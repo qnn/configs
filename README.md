@@ -29,6 +29,10 @@ Use this script to generate nginx configs. This script may ask you which website
 
     bash generate_nginx_configs.sh [DIR1[ DIR2[ ...]]]
 
+There are too many sites added to nginx configs. You may also need to add the following line to the ``http`` section in ``/etc/nginx/nginx.conf`` file.
+
+    server_names_hash_max_size 2046;
+
 ### Check Websites
 
 Check if each website returns 200 status code in 10-second timeout. You may need curl 7.29.0+ to display the IP addresses.
