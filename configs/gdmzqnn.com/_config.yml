@@ -87,7 +87,7 @@ photos:
       **电话**：13723625166
 
       **地址**：广东省梅州市梅江区江南梅新路5-8号店
-	  
+
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
@@ -98,7 +98,7 @@ photos:
       **电话**：18318202576
 
       **地址**：广东省梅州市梅江区嘉应西路
-	  
+
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
@@ -109,7 +109,7 @@ photos:
       **电话**：13539173508
 
       **地址**：广东省梅州市梅江区中山街60号
-	  
+
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
@@ -120,7 +120,7 @@ photos:
       **电话**：13539162108
 
       **地址**：广东省梅州市梅江区宪梓北路16号
-	  
+
  - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
@@ -132,7 +132,7 @@ photos:
 
       **地址**：广东省梅州市宪梓北路29-11  
 
-	  
+
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
   地址：广东省梅州市梅江区江南嘉应中路49号之一（二横街）

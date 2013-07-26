@@ -98,7 +98,7 @@ photos:
       **电话**：15676421388
 
       **地址**：广西省贺州市新兴北路（新现代家电城）
-	  
+
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
@@ -109,7 +109,7 @@ photos:
       **电话**：15676421313
 
       **地址**：广西省贺州市八步区向阳路恒兴花园一楼（三洋家电城)
-	  
+
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
@@ -119,7 +119,7 @@ photos:
 
       **电话**：0774-7881288
 
-      **地址**：广西省贺州市富川瑶族自治县凤凰路新华车站旁边（步行街路口）	  
+      **地址**：广西省贺州市富川瑶族自治县凤凰路新华车站旁边（步行街路口）
 	
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
@@ -143,7 +143,7 @@ photos:
 
       **地址**：广西省贺州市八步区昭平县河西东路89号（粮食局对面）
 
-	  
+
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
   地址：广西省贺州市八步区前进西路42号（牛仔路口往老车站下50米）

@@ -98,7 +98,7 @@ photos:
       **电话**：13770757428
 
       **地址**：江苏省南京市白下区新街口南京新百七楼客务中心旁
-	  
+
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
@@ -109,7 +109,7 @@ photos:
       **电话**：13770757428
 
       **地址**：江苏省南京市建邺区万达广场负一楼
-	  
+
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
@@ -131,8 +131,8 @@ photos:
       **电话**：13770757428
 
       **地址**：江苏省南京市雨花区板桥
-	  	  
-	  
+
+
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
   地址：江苏省南京市秦淮区龙蟠中路596号101室

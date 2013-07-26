@@ -120,7 +120,7 @@ photos:
       **电话**：0754-88241240
 
       **地址**：广东省汕头市金平区东厦南路67号
-	  
+
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
@@ -131,7 +131,7 @@ photos:
       **电话**：0754-84440128
 
       **地址**：广东省汕头市潮阳区贵屿草南路华美路段226-228-234号
-	  
+
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
