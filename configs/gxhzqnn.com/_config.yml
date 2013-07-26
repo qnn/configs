@@ -8,19 +8,19 @@ layouts: _layout_gamma
 url: http://www.gxhzqnn.com
 
 # 网站名称
-name: 全能代理商
+name: 广西贺州销售中心
 
 # 默认标题
-title: 全能代理商
+title: 全能保险柜广西贺州销售中心-贺州保险柜
 
 # 默认描述
 description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
 
 # 默认关键词
-keywords: 保险柜,保险箱,家用保险柜,家用保险箱,保险柜十大品牌,全能保险柜
+keywords: 贺州保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -69,47 +69,98 @@ photos:
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
-      **销售网点**：XXX专卖店1
+      **销售网点**：贺州销售中心
 
-      **联系人**：X先生
+      **联系人**：黄江延
 
-      **电话**：0757-12345678
+      **电话**：0774-5299388
 
-      **地址**：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+      **地址**：广西省贺州市八步区前进西路42号（牛仔路口往老车站下50米）
 
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
-      **销售网点**：XXX专卖店2
+      **销售网点**：贺州销售中心
 
-      **联系人**：X先生
+      **联系人**：黄江延
 
-      **电话**：0757-12345678
+      **电话**：0774-5299388
 
-      **地址**：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+      **地址**：广西省贺州市八步区建设中路33-1号（邮政银行旁边）
 
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：贺州销售中心
 
+      **联系人**：吴小惠
+
+      **电话**：15676421388
+
+      **地址**：广西省贺州市新兴北路（新现代家电城）
+	  
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：贺州销售中心
+
+      **联系人**：陈小燕
+
+      **电话**：15676421313
+
+      **地址**：广西省贺州市八步区向阳路恒兴花园一楼（三洋家电城)
+	  
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：富川县销售中心
+
+      **联系人**：黄江延
+
+      **电话**：0774-7881288
+
+      **地址**：广西省贺州市富川瑶族自治县凤凰路新华车站旁边（步行街路口）	  
+	
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：钟山县销售中心
+
+      **联系人**：朱子杰
+
+      **电话**：0774-8988983
+
+      **地址**：广西省贺州市八步区钟山县老粮食局门面（土产局对面）
+
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：昭平县销售中心
+
+      **联系人**：陈文进
+
+      **电话**：15278429212
+
+      **地址**：广西省贺州市八步区昭平县河西东路89号（粮食局对面）
+
+	  
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  全能地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+  地址：广西省贺州市八步区前进西路42号（牛仔路口往老车站下50米）
   
-  总部电话：0757-22308180
+  联系人：黄江延
   
-  全国免费服务热线：400-830-4555
-  
-  售后服务热线：0757-22308180
+  联系电话：0774-5299388
+
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
-  ###联系人：X先生
-  ###联系电话：0757-12345678
+  ###地址：广西省贺州市八步区前进西路42号（牛仔路口往老车站下50米）
+  ###联系人：黄江延
+  ###联系电话：0774-5299388
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 地址：XXX
-
-# 右上角电话
-telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
+addr: 地址：广西省贺州市八步区前进西路42号（牛仔路口往老车站下50米）

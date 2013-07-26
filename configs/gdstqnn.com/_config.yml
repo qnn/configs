@@ -8,19 +8,19 @@ layouts: _layout_gamma
 url: http://www.gdstqnn.com
 
 # 网站名称
-name: 全能代理商
+name: 广东汕头办事处
 
 # 默认标题
-title: 全能代理商
+title: 全能保险柜广东汕头办事处-汕头保险柜
 
 # 默认描述
 description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
 
 # 默认关键词
-keywords: 保险柜,保险箱,家用保险柜,家用保险箱,保险柜十大品牌,全能保险柜
+keywords: 汕头保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -69,47 +69,89 @@ photos:
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
-      **销售网点**：XXX专卖店1
+      **销售网点**：潮阳全能家私商场
 
-      **联系人**：X先生
+      **联系人**：肖先生
 
-      **电话**：0757-12345678
+      **电话**：0754-83818495
 
-      **地址**：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+      **地址**：广东省汕头市潮阳区西环城路181-183号铺
 
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
-      **销售网点**：XXX专卖店2
+      **销售网点**：汕头伦记家私
 
-      **联系人**：X先生
+      **联系人**：许小姐
 
-      **电话**：0757-12345678
+      **电话**：0754-85573456
 
-      **地址**：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+      **地址**：广东省汕头市潮南区两英华英东路
 
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：汕头华洋家私
+
+      **联系人**：林小姐
+
+      **电话**：0754-84485840
+
+      **地址**：广东省汕头市潮南区陈店镇湖西广汕公路龙海楼
+
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：汕头华洋家私(惠来店)
+
+      **联系人**：黄小姐
+
+      **电话**：0663-6651222
+
+      **地址**：广东省汕头市惠来区惠城葵和大道惠政桥旁
+
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：汕头升都家具
+
+      **联系人**：杨先生
+
+      **电话**：0754-88241240
+
+      **地址**：广东省汕头市金平区东厦南路67号
+	  
+  - thumb: http://test.html9.com/images/qnnsafe01.jpg
+    photo: http://test.html9.com/images/qnnsafe01.jpg
+    content: |
+      **销售网点**：汕头贵屿专卖店
+
+      **联系人**：林先生
+
+      **电话**：0754-84440128
+
+      **地址**：广东省汕头市潮阳区贵屿草南路华美路段226-228-234号
+	  
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  全能地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+  地址：广东省汕头市潮阳区西环城路181-183号铺
   
-  总部电话：0757-22308180
+  联系人：肖先生
   
-  全国免费服务热线：400-830-4555
-  
-  售后服务热线：0757-22308180
+  联系电话：0754-83818495
+
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
-  ###联系人：X先生
-  ###联系电话：0757-12345678
+  ###地址：广东省汕头市潮阳区西环城路181-183号铺
+  ###联系人：肖先生
+  ###联系电话：0754-83818495
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 地址：XXX
+addr: 地址：广东省汕头市潮阳区西环城路181-183号铺
 
-# 右上角电话
-telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
+

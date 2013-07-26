@@ -20,7 +20,7 @@ description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜
 keywords: 清远保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备12015444号-15</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备12015444号-15</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -97,5 +97,4 @@ coord: 113.061389, 23.704840 # auto-updated
 # 百度地图框内地址
 addr: 地址：广东省清远清城区金碧湾花园31号楼首层8号商铺（球场旁边）
 
-# 右上角电话
-telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
+

@@ -20,7 +20,7 @@ description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜
 keywords: 北京保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备09217978号-24</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备09217978号-24</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -294,6 +294,3 @@ coord: 116.423400, 40.038403 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：北京市昌平区东小口镇合立方中滩六号院一号楼409室
-
-# 右上角电话
-telephone: <a href="http://www.qnnsafe.com/" target="_blank">全能保险柜总部</a> 400-830-4555

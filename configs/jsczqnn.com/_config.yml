@@ -20,7 +20,7 @@ description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜
 keywords: 常州保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备12015444号-26</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备12015444号-26</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -71,7 +71,7 @@ photos:
     content: |
       **联系人**：张先生
 
-      **电话**：519-13511674355
+      **电话**：13511674355
 
       **地址**：江苏常州市勤业路五星乡政府对面
 
@@ -82,19 +82,16 @@ contact: |
   
   联系人：张先生
   
-  联系电话：519-13511674355
+  联系电话：13511674355
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
   ###地址：江苏常州市勤业路五星乡政府对面
   ###联系人：张先生
-  ###联系电话：519-13511674355
+  ###联系电话：13511674355
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 119.941557, 31.800895 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：江苏常州市勤业路五星乡政府对面
-
-# 右上角电话
-telephone: <a href="http://www.qnnsafe.com/" target="_blank">全能保险柜总部</a> 400-830-4555

@@ -11,7 +11,7 @@ url: http://www.tjqnn.com
 name: 天津办事处
 
 # 默认标题
-title: 全能天津办事处-天津保险柜
+title: 全能保险柜天津办事处-天津保险柜
 
 # 默认描述
 description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
@@ -20,7 +20,7 @@ description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜
 keywords: 天津保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备12015444号-29</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备12015444号-29</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -148,7 +148,7 @@ photos:
     content: |
       **销售网点**：天津市金海马家具总汇
 
-      **联系人**：
+      **联系人**：杜刚
 
       **电话**：022-24462510
 
@@ -197,6 +197,3 @@ coord: 117.200016, 39.131930 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：天津河东区津塘公路与十四经路交口
-
-# 右上角电话
-telephone: <a href="http://www.qnnsafe.com/" target="_blank">全能保险柜总部</a> 400-830-4555

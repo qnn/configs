@@ -8,7 +8,7 @@ layouts: _layout_gamma
 url: http://www.ynkmqnn.com
 
 # 网站名称
-name: 云南昆明办事处
+name: 云南昆明销售中心
 
 # 默认标题
 title: 全能保险柜云南昆明办事处-昆明保险柜
@@ -20,7 +20,7 @@ description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜
 keywords: 昆明保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备12015444号-20</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备12015444号-20</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -69,78 +69,55 @@ photos:
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
-      **联系人**：刘先生/任小姐
+      **销售网点**：昆明销售中心
+	
+      **联系人**：刘先生
 
-      **电话**：871-3839473
+      **电话**：0871-3839473
 
       **地址**：云南省昆明市盘龙区环城东路36号昆明理工大学新迎校区科技1号楼1楼铺面
 
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
-      **联系人**：刘先生/任小姐
+      **销售网点**：五华销售中心   
+	
+      **联系人**：刘先生
 
-      **电话**：871-5420968
+      **电话**：0871-5420968
 
       **地址**：云南省昆明市五华区西昌路698号
 
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
+      **销售网点**：官渡销售中心
+
       **联系人**：刘先生
 
-      **电话**：871-13987163238
+      **电话**：13987163238
 
       **地址**：云南省昆明市官渡区二环东路583号金马立交桥下
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
-    content: |
-      **联系人**：李先生
-
-      **电话**：877-13988406068
-
-      **地址**：玉溪市红塔区玉兴路43-5号
-
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
-    content: |
-      **联系人**：余先生
-
-      **电话**：878-3133901
-
-      **地址**：楚雄市鹿城镇鹿城北路53号
-
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
-    content: |
-      **联系人**：陈先生
-
-      **电话**：692-4123234
-
-      **地址**：瑞丽市人民路14号
-
+	  
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
   地址：云南省昆明市盘龙区环城东路36号昆明理工大学新迎校区科技1号楼1楼铺面
   
-  刘先生/任小姐
+  联系人：刘先生
   
-  871-3839473
+  联系电话：0871-3839473
 
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
   ###地址：云南省昆明市盘龙区环城东路36号昆明理工大学新迎校区科技1号楼1楼铺面
-  ###联系人：刘先生/任小姐
-  ###联系电话：871-3839473
+  ###联系人：刘先生
+  ###联系电话：0871-3839473
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 102.790704, 25.009390 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：云南省昆明市盘龙区环城东路36号昆明理工大学新迎校区科技1号楼1楼铺面
-
-# 右上角电话
-telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555

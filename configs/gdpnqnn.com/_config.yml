@@ -8,10 +8,10 @@ layouts: _layout_gamma
 url: http://www.gdpnqnn.com
 
 # 网站名称
-name: 普宁办事处
+name: 广东普宁办事处
 
 # 默认标题
-title: 全能普宁办事处-普宁保险柜
+title: 全能保险柜广东普宁办事处-普宁保险柜
 
 # 默认描述
 description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
@@ -20,7 +20,7 @@ description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜
 keywords: 普宁保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备12015444号-14</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备12015444号-14</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -96,6 +96,3 @@ coord: 116.168607, 23.312250 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省普宁市流沙纺织品市场3-4号门
-
-# 右上角电话
-telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555

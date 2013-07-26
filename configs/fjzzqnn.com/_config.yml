@@ -8,19 +8,19 @@ layouts: _layout_gamma
 url: http://www.fjzzqnn.com
 
 # 网站名称
-name: 全能代理商
+name: 福建漳州代理商
 
 # 默认标题
-title: 全能代理商
+title: 全能保险柜福建漳州代理商-漳州保险柜
 
 # 默认描述
 description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
 
 # 默认关键词
-keywords: 保险柜,保险箱,家用保险柜,家用保险箱,保险柜十大品牌,全能保险柜
+keywords: 漳州保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -69,47 +69,43 @@ photos:
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
-      **销售网点**：XXX专卖店1
+      **销售网点**：福建漳州销售中心
 
-      **联系人**：X先生
+      **联系人**：高剑廷
 
-      **电话**：0757-12345678
+      **电话**：0596-2022137
 
-      **地址**：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+      **地址**：福建省漳州市芗城区新华南路42号
 
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
-      **销售网点**：XXX专卖店2
+      **销售网点**：福建漳州销售中心
 
-      **联系人**：X先生
+      **联系人**：高剑廷
 
-      **电话**：0757-12345678
+      **电话**：13960165052
 
-      **地址**：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+      **地址**：福建省漳州市漳浦县朝阳路十字路口
 
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  全能地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
+  地址：福建省漳州市芗城区新华南路42号
   
-  总部电话：0757-22308180
+  联系人：高剑廷
   
-  全国免费服务热线：400-830-4555
-  
-  售后服务热线：0757-22308180
+  联系电话：0596-2022137
+ 
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省佛山市顺德大良街道凤翔工业区德翔路8号
-  ###联系人：X先生
-  ###联系电话：0757-12345678
+  ###地址：福建省漳州市芗城区新华南路42号
+  ###联系人：高剑廷
+  ###联系电话：0596-2022137
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 地址：XXX
-
-# 右上角电话
-telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
+addr: 地址：福建省漳州市芗城区新华南路42号

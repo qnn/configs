@@ -20,7 +20,7 @@ description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜
 keywords: 兰州保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备12015444号-11</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备12015444号-11</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -97,5 +97,4 @@ coord: 103.881609, 36.057762 # auto-updated
 # 百度地图框内地址
 addr: 地址：甘肃省兰州市城关区张苏滩458号、三森美居3F-2-4
 
-# 右上角电话
-telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
+

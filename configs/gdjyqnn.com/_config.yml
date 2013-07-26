@@ -8,10 +8,10 @@ layouts: _layout_gamma
 url: http://www.gdjyqnn.com
 
 # 网站名称
-name: 揭阳办事处
+name: 广东揭阳办事处
 
 # 默认标题
-title: 全能揭阳办事处-揭阳保险柜
+title: 全能保险柜广东揭阳办事处-揭阳保险柜
 
 # 默认描述
 description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
@@ -20,7 +20,7 @@ description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜
 keywords: 揭阳保险柜
 
 # 版权，请改备案号
-copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备12015444号-13</a>
+copy: 版权所有 &copy; 1999-2013 广东安能保险柜制造有限公司 <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备12015444号-13</a>
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -82,7 +82,7 @@ photos:
 
       **电话**：0663-13502513277
 
-      **地址**：福建省揭阳市惠来县惠城葵和大道惠改桥旁（即）慈云实验中学斜对面
+      **地址**：广东省揭阳市惠来县惠城葵和大道惠改桥旁（即）慈云实验中学斜对面
 
 
 # 侧栏联系（每行代码前加入两个空格）
@@ -105,6 +105,3 @@ coord: 116.382638, 23.555519 # auto-updated
 
 # 百度地图框内地址
 addr: 地址：广东省揭阳市东山区临江北路
-
-# 右上角电话
-telephone: <a href="http://www.qnn.com.cn/" target="_blank">全能保险柜总部</a> 400-830-4555
