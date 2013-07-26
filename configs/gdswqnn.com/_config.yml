@@ -112,7 +112,7 @@ contact: |
 contacthtml: |
   ###地址：广东省汕尾市城区五马路御景园7栋11号
   ###联系人：黄新伟
-  ###联系电话：18688079755	
+  ###联系电话：18688079755
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 115.341936, 22.972594 # auto-updated

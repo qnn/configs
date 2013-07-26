@@ -69,8 +69,8 @@ photos:
   - thumb: http://test.html9.com/images/qnnsafe01.jpg
     photo: http://test.html9.com/images/qnnsafe01.jpg
     content: |
-      **销售网点**：贵阳销售中心	
-	
+      **销售网点**：贵阳销售中心
+
       **联系人**：陈先生
 
       **电话**：0851-4122398
@@ -85,8 +85,6 @@ contact: |
   联系人：陈先生
   
   联系电话：0851-4122398
-  
-  
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
