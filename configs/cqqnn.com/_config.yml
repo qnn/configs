@@ -8,7 +8,7 @@ layouts: _layout_gamma
 url: http://www.cqqnn.com
 
 # 网站名称
-name: 全能保险柜重庆办事处
+name: 重庆办事处
 
 # 默认标题
 title: 全能保险柜重庆办事处-重庆保险柜
@@ -59,9 +59,7 @@ slider:
 # 个人QQ：<a class="individual_qq" data-qq="这里填写QQ号码" href="#">客户咨询</a>
 service: |
   <p>客户咨询时间：早上8:00到下午17:30</p>
-  <a class="enterprise_qq" href="#">客户咨询</a>
-  <a class="enterprise_qq" href="#">客户咨询</a>
-  <a class="enterprise_qq" href="#">客户咨询</a>
+  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2::52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
