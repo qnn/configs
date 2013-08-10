@@ -66,8 +66,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：无锡销售中心
 
@@ -77,8 +77,8 @@ photos:
 
       **地址**：江苏省无锡市崇安区锡沪中路紫金门花苑120号
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：无锡保利销售中心
 
@@ -88,8 +88,8 @@ photos:
 
       **地址**：江苏省无锡市崇安区解放东路1000号3F
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：江阴销售中心
 

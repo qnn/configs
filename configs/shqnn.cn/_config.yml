@@ -66,8 +66,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：浦东4S店销售中心
 
@@ -77,8 +77,8 @@ photos:
 
       **地址**：上海市浦东区龙东大道5385号龙东大厦首层
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：川沙销售中心
 
@@ -88,8 +88,8 @@ photos:
 
       **地址**：上海市浦东区妙境路872号（近川环南路路口）
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：沪太路销售中心
 
@@ -99,8 +99,8 @@ photos:
 
       **地址**：上海市闸北区沪太路589号（近中北路）
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：红星美凯龙沪南路商场销售中心
 
@@ -110,8 +110,8 @@ photos:
 
       **地址**：上海市浦东区沪南路近华夏西路红星美凯龙5层
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：红星美凯龙真北路商场销售中心
 
@@ -121,8 +121,8 @@ photos:
 
       **地址**：上海市普陀区真北路近怒江北路红星美凯龙北馆二楼
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：红星美凯龙真北路商场销售中心
 
@@ -132,8 +132,8 @@ photos:
 
       **地址**：上海市普陀区真北路近怒江北路红星美凯龙南馆负1楼
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：红星美凯龙汶水路商场销售中心
 
@@ -143,8 +143,8 @@ photos:
 
       **地址**：上海市宝山区汶水路近沪太路红星美凯龙一楼
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：剪刀石头布家居商场销售中心
 
@@ -154,8 +154,8 @@ photos:
 
       **地址**：上海市闵行区吴中路近金汇南路剪刀石头布4楼 
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：好美家曹安路商场销售中心
 
@@ -165,8 +165,8 @@ photos:
 
       **地址**：上海市嘉定区曹安路近定边路好美家商场一楼 
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：盛原大地文定路家居商场销售中心
 

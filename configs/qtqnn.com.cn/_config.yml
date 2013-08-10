@@ -66,8 +66,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **联系人**：徐先生
 
@@ -75,8 +75,8 @@ photos:
 
       **地址**：上海省东新区龙东大道5385号龙东大厦首层
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **联系人**：张小姐
 
@@ -84,8 +84,8 @@ photos:
 
       **地址**：上海省浦东新区妙境路872号（近川环南路路口）
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **联系人**：张先生
 
@@ -93,8 +93,8 @@ photos:
 
       **地址**：上海省闸北区沪太路589号（近中北路）
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **联系人**：郭女士
 
@@ -102,8 +102,8 @@ photos:
 
       **地址**：上海省浦东区沪南路近华夏西路红星美凯龙5层
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **联系人**：刘女士
 
@@ -111,8 +111,8 @@ photos:
 
       **地址**：上海省普陀区真北路近怒江北路红星美凯龙北馆二楼
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **联系人**：胡女士
 
@@ -120,8 +120,8 @@ photos:
 
       **地址**：上海省普陀区真北路近怒江北路红星美凯龙南馆负1楼
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **联系人**：周女士
 
@@ -129,8 +129,8 @@ photos:
 
       **地址**：上海省宝山区汶水路近沪太路红星美凯龙一楼
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **联系人**：牛女士
 
@@ -138,8 +138,8 @@ photos:
 
       **地址**：上海省闵行区吴中路近金汇南路剪刀石头布4楼
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **联系人**：王女士
 
@@ -147,8 +147,8 @@ photos:
 
       **地址**：上海省嘉定区曹安路近定边路好美家商场一楼
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **联系人**：蒋女士
 

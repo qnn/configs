@@ -64,8 +64,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：全能保险柜重庆办事处
 
@@ -75,8 +75,8 @@ photos:
 
       **地址**：重庆市沙坪坝新桥新村88号(新桥医院东)
 
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：全能保险柜重庆专卖店
 
@@ -86,8 +86,8 @@ photos:
 
       **地址**：重庆市渝北区回兴宝桐一路209号（3号轻轨回兴站西北角）
       
-  - thumb: http://test.html9.com/images/qnnsafe01.jpg
-    photo: http://test.html9.com/images/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
     content: |
       **销售网点**：全能保险柜重庆经销点
 
