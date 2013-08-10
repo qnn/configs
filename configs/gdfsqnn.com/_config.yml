@@ -66,7 +66,7 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：梁小姐
@@ -75,7 +75,7 @@ photos:
 
       **地址**：广东省佛山市南海区桂城南海大道北92-11号（南海区政府左侧200米）
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：曾小姐
@@ -84,7 +84,7 @@ photos:
 
       **地址**：广东省佛山市禅城区季华五路5号御景豪庭首层P1号
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：余小姐
@@ -93,7 +93,7 @@ photos:
 
       **地址**：广东省佛山市南海区黄岐黄海路37号怡富广场地铺192号（风度酒店对面）
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：胡小姐
@@ -102,7 +102,7 @@ photos:
 
       **地址**：广东省佛山市三水区西南广海大道中27号（商业城）一区128号
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：麦小姐
@@ -111,7 +111,7 @@ photos:
 
       **地址**：广东省佛山市高明区沧江路241号
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：宁小姐
@@ -120,7 +120,7 @@ photos:
 
       **地址**：广东省佛山市顺德区乐从东恒家具城一排一座一号前仓（子材大桥往外国语学校方向100米）
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：周小姐

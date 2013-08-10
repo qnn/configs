@@ -66,7 +66,7 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：绵阳销售中心
@@ -77,7 +77,7 @@ photos:
 
       **地址**：四川省绵阳市警钟街83号（原东街）
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：攀枝花销售中心

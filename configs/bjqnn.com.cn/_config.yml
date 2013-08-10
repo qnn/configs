@@ -66,7 +66,7 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -75,7 +75,7 @@ photos:
 
       **地址**：北京市昌平区东小口镇合立方中滩六号院一号楼409室
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -84,7 +84,7 @@ photos:
 
       **地址**：北京市昌平区东小口镇合立方中滩六号院一号楼409室
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -93,7 +93,7 @@ photos:
 
       **地址**：北京市朝阳区亚奥北苑路甲13号办公用品区
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -102,7 +102,7 @@ photos:
 
       **地址**：北京市西城区复兴门外大街15号B1层办公用品区
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -111,7 +111,7 @@ photos:
 
       **地址**：北京市朝阳区成寿寺路308号主楼西区415号
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -120,7 +120,7 @@ photos:
 
       **地址**：北京市海淀区翠微路5号翠微大厦5层
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -129,7 +129,7 @@ photos:
 
       **地址**：北京市昌平区立汤路186号龙德广场四层办公用品区 
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -138,7 +138,7 @@ photos:
 
       **地址**：北京市海淀区花园路2号办公用品区
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -147,7 +147,7 @@ photos:
 
       **地址**：北京市海淀区清河嘉园东区甲1号(近清河新城)办公用品区
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -156,7 +156,7 @@ photos:
 
       **地址**：北京市海淀区中关村大街40号当代商城B1楼
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -165,7 +165,7 @@ photos:
 
       **地址**：北京市海淀区北沙滩1号院35号楼地下二层
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -174,7 +174,7 @@ photos:
 
       **地址**：北京市朝阳区东四环中路191号家居馆B1层/建材馆3层
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -183,7 +183,7 @@ photos:
 
       **地址**：北京市海淀区阜成路68号集美2层办公区
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -192,7 +192,7 @@ photos:
 
       **地址**：北京市海淀区远大路1号办公用品区
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -201,7 +201,7 @@ photos:
 
       **地址**：北京市朝阳区北四环东路65号五金超市内
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -210,7 +210,7 @@ photos:
 
       **地址**：北京市海淀区远大路1号金源时代购物中心五金超市内
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -219,7 +219,7 @@ photos:
 
       **地址**：北京市丰台区西三环南路甲27号五金超市内
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -228,7 +228,7 @@ photos:
 
       **地址**：北京市朝阳区十八里店大洋坊路106号五金超市内
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -237,7 +237,7 @@ photos:
 
       **地址**：北京市丰台区南三环西路58号五金超市内
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -246,7 +246,7 @@ photos:
 
       **地址**：北京市朝阳区曙光西路206号（三元西桥向北500米路西，国际村南门）
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -255,7 +255,7 @@ photos:
 
       **地址**：北京市海淀区北三环西路38号办公用品区
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理
@@ -264,7 +264,7 @@ photos:
 
       **地址**：北京市西城区西单北大街120号办公用品区
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：王经理

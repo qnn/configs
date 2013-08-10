@@ -66,7 +66,7 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：长乐路专卖店
@@ -77,7 +77,7 @@ photos:
 
       **地址**：江苏省南京市秦淮区龙蟠中路596号101室
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：卡子门红星美凯龙
@@ -88,7 +88,7 @@ photos:
 
       **地址**：江苏省南京市雨花区卡子门北厅负一楼服务台旁，二楼中厅服务台旁
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：南京新百
@@ -99,7 +99,7 @@ photos:
 
       **地址**：江苏省南京市白下区新街口南京新百七楼客务中心旁
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：家居乐建材超市
@@ -110,7 +110,7 @@ photos:
 
       **地址**：江苏省南京市建邺区万达广场负一楼
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：卡子门家乐家
@@ -121,7 +121,7 @@ photos:
 
       **地址**：江苏省南京市雨花区中厅负一楼
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：红太阳装饰城

@@ -66,7 +66,7 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：金海马家具世界
@@ -77,7 +77,7 @@ photos:
 
       **地址**：天津河东区津塘公路与十四经路交口
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：塘沽大通文化用品
@@ -88,7 +88,7 @@ photos:
 
       **地址**：天津塘沽区营口道88号
       
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：金街现代办公
@@ -99,7 +99,7 @@ photos:
 
       **地址**：天津塘沽区金街
       
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：集美家居城
@@ -110,7 +110,7 @@ photos:
 
       **地址**：天津西青区卫津南路88号
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：具多美家具城
@@ -121,7 +121,7 @@ photos:
 
       **地址**：天津武清区汽车总站旁
       
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：大港滨江购物
@@ -132,7 +132,7 @@ photos:
 
       **地址**：天津大港区油田3号院
       
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：金海马家具商城
@@ -143,7 +143,7 @@ photos:
 
       **地址**：天津南开区卫津路168号
       
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：天津市金海马家具总汇
@@ -154,7 +154,7 @@ photos:
 
       **地址**：天津区狮子林大街（河北区政府对面）
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：新中国商厦
@@ -165,7 +165,7 @@ photos:
 
       **地址**：天津区和平区和平路新中国商厦3楼
 
-  - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：欧迈办公用品
