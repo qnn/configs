@@ -67,7 +67,7 @@ service: |
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
   - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
-    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：潮阳全能家私商场
 
@@ -78,7 +78,7 @@ photos:
       **地址**：广东省汕头市潮阳区西环城路181-183号铺
 
   - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
-    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：汕头伦记家私
 
@@ -89,7 +89,7 @@ photos:
       **地址**：广东省汕头市潮南区两英华英东路
 
   - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
-    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：汕头华洋家私
 
@@ -100,7 +100,7 @@ photos:
       **地址**：广东省汕头市潮南区陈店镇湖西广汕公路龙海楼
 
   - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
-    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：汕头华洋家私(惠来店)
 
@@ -111,7 +111,7 @@ photos:
       **地址**：广东省汕头市惠来区惠城葵和大道惠政桥旁
 
   - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
-    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：汕头升都家具
 
@@ -122,7 +122,7 @@ photos:
       **地址**：广东省汕头市金平区东厦南路67号
 
   - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
-    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **销售网点**：汕头贵屿专卖店
 

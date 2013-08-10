@@ -67,7 +67,7 @@ service: |
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
   - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
-    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：陈文波
 

@@ -67,7 +67,7 @@ service: |
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
   - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
-    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：蔡先生
 
@@ -76,7 +76,7 @@ photos:
       **地址**：广东省惠州市惠城区红花湖路1号（国防加油站斜对面）
 
   - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
-    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：孙小姐
 
@@ -85,7 +85,7 @@ photos:
       **地址**：广东惠州市惠城区演达大道泰安居四楼
 
   - thumb: http://stores.qnnimg.com/photos/150px/qnnsafe01.jpg
-    photo: http://stores.qnnimg.com/photos/qnnsafe01.jpg
+    photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
       **联系人**：赖先生
 
