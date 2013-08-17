@@ -143,6 +143,7 @@ telephone: 荆州办事处电话：13310599488
 # 自定各产品的淘宝链接，default是默认链接（可以填上店铺主页），产品用名称（name字段，如BW-6960）对应网址
 taobao:
   default: http://shop67870749.taobao.com
+  asafe: http://item.taobao.com/item.htm?spm=a1z10.1.w1004-1620560031.3.0fctNp&id=20848899564
   B-4538: 
   B-5440: 
   B-7348: 
