@@ -8,7 +8,7 @@ layouts: _layout_gamma
 url: http://www.ynkmqnn.com
 
 # 网站名称
-name: 云南昆明销售中心
+name: 云南昆明办事处
 
 # 默认标题
 title: 全能保险柜云南昆明办事处-昆明保险柜
@@ -69,7 +69,7 @@ photos:
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **销售网点**：昆明销售中心
+      **销售网点**：昆明办事处
 
       **联系人**：刘先生
 
@@ -80,7 +80,7 @@ photos:
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **销售网点**：五华销售中心   
+      **销售网点**：五华办事处   
 
       **联系人**：刘先生
 
@@ -91,7 +91,7 @@ photos:
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **销售网点**：官渡销售中心
+      **销售网点**：官渡办事处
 
       **联系人**：刘先生
 

@@ -8,10 +8,10 @@ layouts: _layout_gamma
 url: http://www.sxxaqnn.com
 
 # 网站名称
-name: 陕西西安销售中心
+name: 陕西西安办事处
 
 # 默认标题
-title: 全能保险柜陕西西安销售中心-西安保险柜
+title: 全能保险柜陕西西安办事处-西安保险柜
 
 # 默认描述
 description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
@@ -70,7 +70,7 @@ photos:
   - thumb: http://www.qnnsafe.com/stores01.jpg
     photo: http://www.qnnsafe.com/stores01.jpg
     content: |
-      **销售网点**：西安高新区销售中心
+      **销售网点**：西安高新区办事处
 
       **联系人**：王先生
 
@@ -81,7 +81,7 @@ photos:
   - thumb: http://www.qnnsafe.com/stores02.jpg
     photo: http://www.qnnsafe.com/stores02.jpg
     content: |
-      **销售网点**：西安雁塔区销售中心
+      **销售网点**：西安雁塔区办事处
 
       **联系人**：王先生
 
@@ -92,7 +92,7 @@ photos:
   - thumb: http://www.qnnsafe.com/stores03.jpg
     photo: http://www.qnnsafe.com/stores03.jpg
     content: |
-      **销售网点**：西安曲江新区销售中心
+      **销售网点**：西安曲江新区办事处
 
       **联系人**：王先生
 
