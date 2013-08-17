@@ -142,7 +142,7 @@ telephone: 荆州办事处电话：13310599488
 
 # 自定各产品的淘宝链接，default是默认链接（可以填上店铺主页），产品用名称（name字段，如BW-6960）对应网址
 taobao:
-  default: http://www.taobao.com/
+  default: http://shop67870749.taobao.com
   B-4538: 
   B-5440: 
   B-7348: 
@@ -197,7 +197,7 @@ taobao:
   FG-11860B/R: 
   FG-153: 
   FG-15870B/R: 
-  FG-2940B/R: 
+  FG-2940B/R: http://item.taobao.com/item.htm?spm=a1z10.1.w1004-1620560031.1.KQ1B6Y&id=20453303702
   FG-3001: 
   FG-3002: 
   FG-3542B/R: 
@@ -267,10 +267,10 @@ taobao:
   RH-2014C/K/E: 
   RH-2410C/K: 
   RH-3020CC: 
-  SJB-1630B/R: 
+  SJB-1630B/R: http://item.taobao.com/item.htm?spm=a1z10.3.w1017-1620560058.62.lqg88K&id=24903448509&
   SJB-2243B/R: 
-  SJB-3236B/R: 
-  SJB-40HⅢB/R: 
+  SJB-3236B/R: http://item.taobao.com/item.htm?spm=a1z10.3.w1017-1620560058.64.lqg88K&id=17433601759&
+  SJB-40HⅢB/R:  http://item.taobao.com/item.htm?spm=a1z10.3.w1017-1620560058.66.lqg88K&id=18338362638&
   SJB-40ⅢB/R: 
   SJB-43ⅢB/R: 
   SJB-48ⅢB/R: 
@@ -278,8 +278,8 @@ taobao:
   SJB-53ⅢB/R: 
   SJB-58ⅢB/R: 
   SJB-72ⅢB/R: 
-  SJB-88ⅢB/R: 
-  SJB-88ⅢDB/R: 
+  SJB-88ⅢB/R:  http://item.taobao.com/item.htm?spm=a1z10.3.w1017-1620560058.68.lqg88K&id=18339882953&
+  SJB-88ⅢDB/R:  http://item.taobao.com/item.htm?spm=a1z10.3.w1017-1620560058.70.lqg88K&id=18340090917&
   SK-2045: 
   SK-2045ZH: 
   TGG-2040B/R: 
@@ -297,5 +297,5 @@ taobao:
   US-3C/K: 
   WS-108: 
   ZA-18090: 
-  ZF-4538B/R: 
+  ZF-4538B/R: http://item.taobao.com/item.htm?spm=a1z10.3.w1017-1620560058.58.lqg88K&id=26451544599&
   ZF-4938B/R: 
