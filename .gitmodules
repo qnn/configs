@@ -1,3 +1,0 @@
-[submodule "misc/bdmaps-utils"]
-	path = misc/bdmaps-utils
-	url = git://github.com/caiguanhao/baidu-maps-coord-utils.git
