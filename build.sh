@@ -55,47 +55,12 @@ fi
 cd "$CURRENT"
 
 if [[ ${#@} -eq 0 ]]; then
-    SITELIST=(
-        $(find "`pwd`" -maxdepth 1 -type f -regex '.*TODO.*')
-        $(find "`pwd`" -maxdepth 1 -type f -regex '.*WEBSITES.*')
-    )
-
-    echo "Found ${#SITELIST[@]} list files."
-    echo "Select one to read or enter site domain names (separated by spaces):"
-
-    NO=0;
-    for SITE in "${SITELIST[@]}"
-    do
-        echo "  $NO) ${SITE##*/}"
-        (( NO = NO + 1 ))
-    done
-
-    read NO
-
-    if [[ $NO =~ ^[0-9]+$ ]] && [[ $NO -ge 0 ]] && [[ $NO -lt ${#SITELIST[@]} ]]; then
-        FILE=${SITELIST[$NO]}
-
-        echo "Using $FILE."
-
-        OLD_IFS=$IFS
-        IFS=$'\n'
-        TODOS=($(cat $FILE))
-        IFS=$OLD_IFS
-    else
-        if [[ ${#NO} -gt 0 ]]; then
-            OLD_IFS=$IFS
-            IFS=$' '
-            TODOS=($NO)
-            IFS=$OLD_IFS
-        else
-            echo "No input file."
-            exit
-        fi
-    fi
+  echo "Please specify which sites (separated by spaces) to build or --all to build all sites."
+  exit 1
 elif [[ ${#@} -eq 1 ]] && [[ $1 == "--all" ]]; then
     OLD_IFS=$IFS
     IFS=$'\n'
-    TODOS=($(cat "`pwd`/WEBSITES"))
+    TODOS=($(ls -1 $CONFIGS | sed 's/.yml$//'))
     IFS=$OLD_IFS
     CONCURRENT=5
 else
@@ -111,12 +76,9 @@ fi
 
 for TODO in "${TODOS[@]}"
 do
-    if [[ ! -d "$CONFIGS/$TODO" ]]; then
-        echo "At least this config does not exist: $TODO"
+    if [[ ! -f "$CONFIGS/$TODO.yml" ]]; then
+        echo "At least this config does not exist: $TODO.yml"
         exit
-    fi
-    if [[ ! -d "$SITES/$TODO" ]]; then
-        mkdir "$SITES/$TODO"
     fi
 done
 
@@ -181,7 +143,7 @@ do
     bgxgrp=${jobsgroup} ; \
     bgxlimit $CONCURRENT \
     $JEKYLL build --source "$SOURCE" --destination "$SITES/$TODO" \
-        --config "$SOURCE/_config.yml","$CONFIGS/$TODO/_config.yml" ; \
+        --config "$SOURCE/_config.yml","$CONFIGS/$TODO.yml" ; \
     jobsgroup=${bgxgrp}
     echo 'ACTIVE JOBS: [' ${jobsgroup} ']'
 done

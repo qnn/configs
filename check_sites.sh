@@ -2,13 +2,7 @@
 
 set -e
 
-FILE="`pwd`/WEBSITES"
 CURL="$(which curl)"
-
-if [[ ! -f $FILE ]]; then
-  echo "Cannot find $FILE."
-  exit 1
-fi
 
 if [[ ${#CURL} -eq 0 ]]; then
     echo "Install curl first."
@@ -30,7 +24,7 @@ trap handle_sigint SIGINT
 
 OLD_IFS=$IFS
 IFS=$'\n'
-WEBSITES=($(cat $FILE))
+WEBSITES=($(ls -1 configs | sed 's/.yml$//'))
 IFS=$OLD_IFS
 
 for (( i = 0; i < "${#WEBSITES[@]}"; i++ )); do
