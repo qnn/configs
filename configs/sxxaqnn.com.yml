@@ -67,8 +67,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://www.qnnsafe.com/stores01.jpg
-    photo: http://www.qnnsafe.com/stores01.jpg
+  - thumb: http://stores.qnnimg.com/photos/sxxa-01.jpg
+    photo: http://stores.qnnimg.com/photos/sxxa-01.jpg
     content: |
       **销售网点**：西安高新区办事处
 
@@ -78,8 +78,8 @@ photos:
 
       **地址**：陕西省西安市高新区科技路枫叶新都市B5-1101号
 
-  - thumb: http://www.qnnsafe.com/stores02.jpg
-    photo: http://www.qnnsafe.com/stores02.jpg
+  - thumb: http://stores.qnnimg.com/photos/sxxa-02.jpg
+    photo: http://stores.qnnimg.com/photos/sxxa-02.jpg
     content: |
       **销售网点**：西安雁塔区办事处
 
@@ -89,8 +89,8 @@ photos:
 
       **地址**：陕西省西安市雁塔区朱雀大街南段伟丰花园西门向南50米
 
-  - thumb: http://www.qnnsafe.com/stores03.jpg
-    photo: http://www.qnnsafe.com/stores03.jpg
+  - thumb: http://stores.qnnimg.com/photos/sxxa-03.jpg
+    photo: http://stores.qnnimg.com/photos/sxxa-03.jpg
     content: |
       **销售网点**：西安曲江新区办事处
 
