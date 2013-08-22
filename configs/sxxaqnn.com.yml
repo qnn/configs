@@ -17,7 +17,7 @@ title: 全能保险柜陕西西安办事处-西安保险柜
 description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜是国内保险柜十大品牌之一，专业制造保险柜、保险箱、家用保险柜、家用保险箱等安防产品。
 
 # 默认关键词
-keywords: 西安保险箱
+keywords: 西安保险柜
 
 # 备案号
 beian: 粤ICP备12015444号-9
@@ -67,7 +67,7 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://stores.qnnimg.com/photos/sxxa-01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/sxxa-01.jpg
     photo: http://stores.qnnimg.com/photos/sxxa-01.jpg
     content: |
       **销售网点**：西安高新区办事处
@@ -89,7 +89,7 @@ photos:
 
       **地址**：陕西省西安市雁塔区朱雀大街南段伟丰花园西门向南50米
 
-  - thumb: http://stores.qnnimg.com/photos/sxxa-03.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/sxxa-03.jpg
     photo: http://stores.qnnimg.com/photos/sxxa-03.jpg
     content: |
       **销售网点**：西安曲江新区办事处
