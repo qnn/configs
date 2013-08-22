@@ -65,8 +65,8 @@ service: |
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
 photos:
-  - thumb: http://stores.qnnimg.com/photos/150px/hbjz01.jpg
-    photo: http://stores.qnnimg.com/photos/hbjz01.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/hbjz-01.jpg
+    photo: http://stores.qnnimg.com/photos/hbjz-01.jpg
     content: |
       **销售网点**：荆州市全能旗舰店
 
@@ -76,8 +76,8 @@ photos:
 
       **地址**：湖北省荆州市北京西路文湖公园十字路
 
-  - thumb: http://stores.qnnimg.com/photos/150px/hbjz02.jpg
-    photo: http://stores.qnnimg.com/photos/hbjz02.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/hbjz-02.jpg
+    photo: http://stores.qnnimg.com/photos/hbjz-02.jpg
     content: |
       **销售网点**：公安县全能旗舰店
 
@@ -87,8 +87,8 @@ photos:
 
       **地址**：湖北省荆州市公安县通运车站出站口对门
 
-  - thumb: http://stores.qnnimg.com/photos/150px/hbjz03.jpg
-    photo: http://stores.qnnimg.com/photos/hbjz03.jpg
+  - thumb: http://stores.qnnimg.com/photos/150px/hbjz-03.jpg
+    photo: http://stores.qnnimg.com/photos/hbjz-03.jpg
     content: |
       **销售网点**：石首市全能旗舰店
 
