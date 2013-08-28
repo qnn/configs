@@ -5,7 +5,7 @@
 layouts: _layout_gamma
 
 # 网站 URL ，最后勿加入斜杠
-url: http://www.fjqzqnn.com
+url: http://www.qzqnn.com.cn
 
 # 网站名称
 name: 福建泉州办事处
@@ -20,7 +20,7 @@ description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜
 keywords: 泉州保险柜
 
 # 备案号
-beian: 粤ICP备12015444号-
+beian: 粤ICP备09217978号-47
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -99,7 +99,7 @@ coord: 118.591097, 24.816648 # auto-updated
 addr: 地址：福建省泉州市中山南路271-273号
 
 # 右上角电话
-telephone: 全能保险柜总部：400-830-4555
+telephone: 福建泉州办事处：0595-22376321
 
 # 自定各产品的淘宝链接，default是默认链接（可以填上店铺主页），产品用名称（name字段，如BW-6960）对应网址
 taobao:
