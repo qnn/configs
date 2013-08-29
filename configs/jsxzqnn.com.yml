@@ -59,9 +59,9 @@ slider:
 # 个人QQ：<a class="individual_qq" data-qq="这里填写QQ号码" href="#">客户咨询</a>
 service: |
   <p>客户咨询时间：早上8:00到下午17:30</p>
-  <a class="enterprise_qq" data-qq="851716031" href="#">客户咨询</a>
-  <a class="enterprise_qq" data-qq="851716031" href="#">客户咨询</a>
-  <a class="enterprise_qq" data-qq="851716031" href="#">客户咨询</a>
+  <a class="individual_qq" data-qq="851716031" href="#">客户咨询</a>
+  <a class="individual_qq" data-qq="851716031" href="#">客户咨询</a>
+  <a class="individual_qq" data-qq="851716031" href="#">客户咨询</a>
 
 
 # 专卖店风采（ - 表示数组项目，content 用 markdown 格式）
@@ -92,6 +92,8 @@ contact: |
   
   联系人：范先生
   
+  QQ：851716031
+  
   联系电话：18361286670 或者 13685112935
   
   
@@ -100,6 +102,7 @@ contact: |
 contacthtml: |
   ###地址：徐州市云龙区民主路时代小商品城沿街（建国路与民主路交叉口向南200米） 或者 徐州市八里屯华隆家具城南门大厅电梯口（楚韵电器城内）
   ###联系人：范先生
+  ###QQ：851716031
   ###联系电话：18361286670 或者 13685112935
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
