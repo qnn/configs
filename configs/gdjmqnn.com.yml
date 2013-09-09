@@ -78,29 +78,38 @@ photos:
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **联系人**：梁经理
+      **联系人**：李福剑
 
-      **电话**：18027620569
+      **电话**：13318658112
 
       **地址**：广东省江门市开平区长沙沿江西路21号之109
 
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **联系人**：梁经理
+      **联系人**：李焕想
 
-      **电话**：18027620569
+      **电话**：13672908992
 
-      **地址**：广东省江门市恩平区美华东路52号中澳豪庭B区詠裕阁116.117号铺位
+      **地址**：广东省江门市开平区长沙人民西路1号首层107铺
 
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **联系人**：梁经理
+      **联系人**：冯晓红
 
-      **电话**：18027620569
+      **电话**：15088123439
 
-      **地址**：广东省江门市鹤山区
+      **地址**：广东省江门市恩平区美华东路52号中澳豪庭B区詠裕阁116.117号铺位
+      
+  - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
+    photo: http://stores.qnnimg.com/photos/default.jpg
+    content: |
+      **联系人**：李经理
+
+      **电话**：13680472173
+
+      **地址**：广东省江门市鹤山区沙坪镇东升路83号首二层
 
 
 # 侧栏联系（每行代码前加入两个空格）
