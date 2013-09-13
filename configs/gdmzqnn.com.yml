@@ -69,78 +69,90 @@ photos:
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **销售网点**：梅州办事处
+      **销售网点**：梅州办事处（梅州江南专卖店）
 
       **联系人**：黄小姐
+      
+      **联系电话**：13549186548
 
-      **地址**：广东省梅州市梅江区江南嘉应中路49号之一（二横街）
+      **地址**：广东省梅州市梅江区江南嘉应中路49号之一（步步高工行斜对面）
 
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **销售网点**：梅州办事处
+      **销售网点**：梅州江南专卖店
 
       **联系人**：钟小姐
+      
+      **联系电话**：13723625166
 
-      **地址**：广东省梅州市梅江区江南梅新路5-8号店
+      **地址**：广东省梅州市梅江区江南梅新路5-8号店(红绿灯入梅新路50米）
 
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **销售网点**：梅州办事处
+      **销售网点**：梅州西桥头专卖店
 
       **联系人**：钟小姐
+      
+      **联系电话**：18318202576
 
-      **地址**：广东省梅州市梅江区嘉应西路
+      **地址**：广东省梅州市梅江区嘉应西路(嘉得利酒店入口公证处侧）
 
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **销售网点**：梅州办事处
+      **销售网点**：梅州江北专卖店
 
       **联系人**：黄小姐
+      
+      **联系电话**：13539173508
 
-      **地址**：广东省梅州市梅江区中山街60号
+      **地址**：广东省梅州市梅江区中山街60号(中山路中段)
 
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **销售网点**：梅州办事处
+      **销售网点**：梅州华侨城专卖店
 
       **联系人**：曾小姐
+      
+      **联系电话**：13539162108
 
-      **地址**：广东省梅州市梅江区宪梓北路16号
+      **地址**：广东省梅州市梅江区宪梓北路16号（利群小学斜对面）
 
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **销售网点**：梅州办事处
+      **销售网点**：梅州华侨城专卖店
 
       **联系人**：钟先生
+      
+      **联系电话**：13500121589
 
-      **地址**：广东省梅州市宪梓北路29-11  
+      **地址**：广东省梅州市宪梓北路29-11（广发银行正门侧20米）
 
 
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
-  地址：广东省梅州市梅江区江南嘉应中路49号之一（二横街）
+  地址：广东省梅州市梅江区江南嘉应中路49号之一（步步高工行斜对面）
   
   联系人：黄小姐
 
 
 # 联系页（每行代码前加入两个空格）
 contacthtml: |
-  ###地址：广东省梅州市梅江区江南嘉应中路49号之一（二横街）
+  ###地址：广东省梅州市梅江区江南嘉应中路49号之一（步步高工行斜对面）
   ###联系人：黄小姐
 
 # 百度地图坐标，到这里获取： http://api.map.baidu.com/lbsapi/getpoint/
 coord: 113.28,22.76
 
 # 百度地图框内地址
-addr: 地址：广东省梅州市梅江区江南嘉应中路49号之一（二横街）
+addr: 地址：广东省梅州市梅江区江南嘉应中路49号之一（步步高工行斜对面）
 
 # 右上角电话
-telephone: 全能保险柜总部：400-830-4555
+telephone: 广东梅州办事处：13549186548
 
 # 自定各产品的淘宝链接，default是默认链接（可以填上店铺主页），产品用名称（name字段，如BW-6960）对应网址
 taobao:
