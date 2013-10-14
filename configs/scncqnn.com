@@ -8,7 +8,7 @@ layouts: _layout_gamma
 url: http://www.scncqnn.com
 
 # 网站名称
-name: 新疆办事处
+name: 四川南充办事处
 
 # 默认标题
 title: 全能保险柜四川南充办事处-南充保险柜
