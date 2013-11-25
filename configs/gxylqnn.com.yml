@@ -20,7 +20,7 @@ description: 广东安能保险柜制造有限公司旗下QNNsafe全能保险柜
 keywords: 玉林保险柜
 
 # 备案号
-beian: 粤ICP备12015444号-
+beian: 粤ICP备13076833号-9
 
 # 自定首页公司简介段落
 # homepage_about: |
@@ -69,7 +69,7 @@ photos:
   - thumb: http://stores.qnnimg.com/photos/150px/default.jpg
     photo: http://stores.qnnimg.com/photos/default.jpg
     content: |
-      **销售网点**：玉林办事处
+      **销售网点**：广西玉林办事处
 
       **联系人**：毛小姐
 
@@ -78,8 +78,6 @@ photos:
       **地址**：广西省玉林市玉洲区一环东路138号
 
  
-
-
 # 侧栏联系（每行代码前加入两个空格）
 contact: |
   地址：广西省玉林市玉洲区一环东路138号
@@ -101,7 +99,7 @@ coord: 113.28,22.76
 addr: 地址：广西省玉林市玉洲区一环东路138号
 
 # 右上角电话
-telephone: 全能保险柜总部：400-830-4555
+telephone: 广西玉林办事处：0775-2810333
 
 # 自定各产品的淘宝链接，default是默认链接（可以填上店铺主页），产品用名称（name字段，如BW-6960）对应网址
 taobao:
