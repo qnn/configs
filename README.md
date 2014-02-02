@@ -5,6 +5,8 @@ This repo contains Jekyll config files of each QNN agent website (more than 80 w
 Default configurations and template source code:  
 [Templates](https://github.com/qnn/template)
 
+Please note that this repository is not being actively maintained.
+
 ### Build
 
 Build Jekyll sites with source file from ``source`` directory and config file from ``configs`` directory. This script may update the main and the source repo before asking you how many sites to build concurrently.
